@@ -1,0 +1,1003 @@
+Detected language 'en' with probability 0.988172
+[0.00s -> 4.88s]  Hello and welcome back to the Careless Talk climbing podcast with Sam Prior and Aidan Roberts.
+[4.88s -> 9.28s]  This week we've got the second part of our chat with Dan Varian, cover quite a lot of ground
+[9.92s -> 18.40s]  from development, gluing holds, adapting the rock, talk about grades and just general meanderings
+[18.40s -> 25.60s]  and musings from one of Britain's most interesting climbers and developers. So yeah I hope you enjoy
+[25.60s -> 32.80s]  it. If you like our podcast and want to help us to keep doing it for a bit longer then
+[33.76s -> 40.96s]  we have a Patreon page which I will link in the description and yeah if you want to go check that
+[40.96s -> 49.76s]  out. We've got a couple of tiers, the lower tier allows for a little bit of extra content on our
+[49.76s -> 58.32s]  Patreon page. I think Aidan's got some fun ideas for expanding that and the higher tier also has
+[58.32s -> 64.48s]  the previous but also includes a Discord membership where you can join the chat, get heads
+[64.48s -> 69.76s]  up on guests, suggest questions, you know all the standard things and meet just a really nice
+[69.76s -> 80.08s]  community of people. All right thanks for listening. One of our Patreons wanted to ask you
+[80.08s -> 87.04s]  if you felt that, well he said that grades vary so much between areas, he wanted to know do you
+[87.04s -> 92.88s]  think we should make an effort to try and bring them together and make them more consistent or
+[92.88s -> 96.80s]  do you think we should just accept that it's part of the fun that grades are all over the place and
+[96.80s -> 104.08s]  just crack on? I think it's part of the fun, I think it'll happen naturally. If you look at
+[104.80s -> 113.68s]  say like there's a lot more, it's been great since 2020 to see people taking the, so if we're
+[113.68s -> 118.72s]  just talking about the UK, I'll say in UK relation to the world. This was actually
+[118.72s -> 126.08s]  international he meant. Yeah so like well I guess on the local scale grades vary loads anyway.
+[127.04s -> 133.28s]  So like Welsh grades are definitely different to Northumberland, like you just have to ask
+[133.28s -> 139.20s]  like ask Tim. Tim's got the most experience of both and like the sessions he has in Northumberland
+[139.92s -> 141.68s]  like usually sends me a grumbly text.
+[145.36s -> 146.48s]  That's on you though Dan.
+[147.28s -> 154.24s]  Complex puzzles. But I think, yeah but so like but anyway everyone's getting loads of stuff,
+[154.24s -> 164.48s]  loads more stuff done now. So like say, I'll pick out Jack Palmieri and Will in the UK but
+[166.48s -> 174.16s]  Jack's just got such a broad spread of repeats now. He is like a certain,
+[174.80s -> 180.40s]  he's got a style and a body type though which needs to be taken into account. But he's all,
+[180.40s -> 186.48s]  but there's still like you get a nose for when you repeat things in certain areas and then
+[187.12s -> 190.80s]  the more people like that, the crop up that do repeat a lot of problems,
+[191.84s -> 197.44s]  then the eighth, it's mainly the seventh C and above I'd say where you get, you start to get
+[198.08s -> 206.08s]  wobble. It'll just gradually get ironed out I think. It is hard, you know like upgrades happen
+[206.08s -> 215.52s]  less than downgrades. And then yeah some stuff like on the upper eighth grade and stuff it's
+[215.52s -> 222.24s]  becoming much more common to just get a lot of them done. So yeah I feel like say Will last year
+[222.24s -> 231.20s]  got a good spread of UK repeats done up and down the country and I think Will is pretty honest
+[231.20s -> 237.04s]  with his appraisal of if he finds something easier or hard. So and he seems to be willing
+[237.04s -> 242.08s]  to upgrade as well as downgrade a little bit. And there's probably still a bit, a little bit of
+[242.08s -> 249.20s]  bias but it's much better and that'll get ironed out and then by the end of the year he'll be
+[249.44s -> 256.80s]  and that'll get ironed out and then by traveling more that does sort out
+[257.60s -> 264.08s]  international differences. But I don't think it's that important to balance things internationally
+[264.08s -> 271.36s]  because it's a bit weird referencing home and away style of bouldering and grades and
+[272.08s -> 281.44s]  it just doesn't make a lot of sense. So a lot of areas in the UK are more local destinations so
+[281.44s -> 288.40s]  we don't have loads of internationals traveling to our bouldering venues. And once you arrive
+[288.40s -> 296.56s]  somewhere you soon get a handle on like what the grades are like but also you learn what
+[296.56s -> 303.44s]  they value. So say in like font I feel like they overgrade their roofs and their burly climbing
+[303.44s -> 308.32s]  compared to their technical climbing because they don't value, they're so much better at
+[308.32s -> 315.36s]  technical climbing and they have so much depth in that area they just overlook what a lot of
+[315.36s -> 320.96s]  people struggle with. So you see a lot of Americans go to font, smash in the really physical boulders
+[320.96s -> 327.04s]  and then struggle on the technical 6b's or whatever or even you know technical 8a's are
+[327.04s -> 335.04s]  desperate. Whereas I say I think when we come if the grip climbers or like for me going to font
+[335.04s -> 340.40s]  it's a busman's holiday coming from Northumberland it's like I've always gone really well there.
+[341.12s -> 347.36s]  But I still find from that perspective their burlier stuff when they think they've done a
+[347.36s -> 352.88s]  hard problem in a reef or whatever. If you compare that to say American grading when I
+[352.88s -> 361.60s]  just got like a tiny bit of experience there but it's so much you know they don't value their
+[361.60s -> 367.68s]  physical climbing as much in America as say the technical stuff. I mean I remember doing an 8a plus
+[367.68s -> 376.40s]  corner in Little Cottonwood that would be like 7b plus 7b on grip and on Jack Horner and it's like
+[376.64s -> 382.16s]  where have we got an 8a plus corner in the UK? So my problem at Fairy's Chest I think is
+[383.36s -> 391.04s]  Fairy Dust is 8a plus 8b and that's maybe the only one that I think is even in the eighth grade
+[392.40s -> 397.36s]  I think. There's quite a lot around 7c and they're all desperate.
+[399.28s -> 404.64s]  But then you see that in like the American physical stuff feeling a lot harder than like the
+[405.44s -> 410.16s]  physical stuff maybe that you'd find in font or one. Yeah yeah like distance between holds it's
+[410.16s -> 416.48s]  like they just don't take into consideration like four foot, five foot moves between holds and
+[416.48s -> 422.56s]  things in the way that it maybe would in font. So like you get and a lot of that's down to rock
+[422.56s -> 430.00s]  type and just having more of that style but some of that can be just like what that culture looks
+[430.88s -> 437.84s]  for. I've never been to Japan but I bet there's an inherent bias in that way in Japan
+[439.76s -> 445.84s]  just for the way they train and excel at certain things. Yeah yeah to like dynamic moves yeah.
+[446.56s -> 452.08s]  And I think in Britain we really undervalue finger strength would be my one point for Britain. So I
+[452.16s -> 460.72s]  think I would imagine we have a lot of the hardest pulls going in the world on small holds now.
+[462.24s -> 468.48s]  You know if you like what what is there in like there isn't any small hold pulls really in font
+[468.48s -> 473.68s]  that I can think of that are anywhere near as brutal as we have in the UK. So then you were
+[473.68s -> 479.12s]  basically left with America and I mean where else can you think in Europe Hayden that's got like
+[480.08s -> 488.00s]  I mean yeah I mean even like I mean it's definitely there in Switzerland generally
+[488.00s -> 492.32s]  that's the hardest stuff doesn't revolve around the tiny holds there as well.
+[494.24s -> 500.48s]  There are a few things but I remember I actually do remember that when I went out to Colorado
+[501.44s -> 512.08s]  in 2019 most of my like outdoor experience around difficulty was around the lakes and around the UK.
+[512.08s -> 517.76s]  Yeah I do agree definitely have a finger strength bias and I remember being quite surprised by like
+[518.56s -> 526.00s]  the crimpy test pieces the likes of Jade and stuff and yeah the just the level of that
+[526.72s -> 532.88s]  perhaps didn't quite align with what I had expected it to. So yeah I think I'd agree
+[532.88s -> 538.00s]  we've definitely got some handy fingers done about we've definitely got a good board training
+[538.00s -> 543.68s]  ethos as well. I actually think this is quite funny I just moved to Sheffield as well got
+[543.68s -> 551.76s]  sucked into the vortex but I found it quite entertaining how many there's such like a board
+[551.76s -> 558.08s]  training ethos whereas well in light of the discussion of like specificity of training
+[558.08s -> 565.84s]  towards dictated by rock funny because the local rock is almost all grit stone at which point
+[565.84s -> 572.88s]  board climbing applies very poorly. So it has been quite entertaining and it's been funny to
+[572.88s -> 580.08s]  think that I guess it's limestone where it does apply a lot better. It's mostly training for
+[580.08s -> 585.84s]  Wales but living in Sheffield isn't it. And then not going to Wales. And then not going to Wales
+[585.84s -> 591.92s]  yeah then climbing a bit on the grit and then going to a comp. Yeah so much board time spent
+[591.92s -> 596.56s]  in Sheffield purely for the love of the board I reckon. Yeah I think it probably is. I guess
+[596.56s -> 600.96s]  it doesn't get as cut down. I believe we've got plans to put it down somewhere Aidan otherwise.
+[602.96s -> 605.84s]  Actually I did well you yeah you were in Sheffield for a bit.
+[605.92s -> 612.96s]  Yeah I trained on boards loads in Sheffield. I mean it's like the beginnings of me getting a lot
+[612.96s -> 619.52s]  more powerful as a climber. I think we've been way ahead on boards on like pulling on little
+[619.52s -> 627.68s]  bits of woods for a long time just because you know and yeah climbers I put a lot of that
+[628.56s -> 633.20s]  you know like there's the origins in Sheffield but I think for my generation
+[633.76s -> 641.36s]  Malcom Pritchett's film Splinter and stuff just like cemented a idea in your head of how to get
+[641.36s -> 648.56s]  good at climbing and that was really influential. But and if you look back I think that's why we
+[648.56s -> 656.00s]  undervalue finger strength as well because like you know you've got that solid history of that
+[656.00s -> 665.60s]  being where a lot of our climbers pointed towards and boards help encourage that and then
+[665.60s -> 670.56s]  we look for that outdoors and we spot those problems maybe and actually small hold problems
+[670.56s -> 677.36s]  are really obvious because there's always a hold there. I think I filled in a lot of gaps with
+[677.36s -> 686.40s]  vagaries so like my skill set of eliminating gaps is often to find the abstract, find the
+[686.40s -> 692.48s]  cheats, find the things that make something that looks like it shouldn't go so that it will go.
+[692.48s -> 698.32s]  So it might be like a heel toe that's hiding somewhere or and then that combines with some
+[698.32s -> 705.68s]  other some holds that are otherwise unholdable or yeah like basically any trick or any and again I
+[705.68s -> 710.64s]  feel like that's because you just have to you're forced to do that if you look at every gap.
+[713.44s -> 723.44s]  And I've had like a base level of fingers to do it with and often on more open-handed and
+[723.44s -> 729.52s]  slopey grips I'm lucky in that I'm probably just like genetically biased to strength in that area.
+[729.52s -> 738.08s]  But yeah like that's been what previous generations overlooked whereas like the
+[738.08s -> 745.76s]  obvious finger strength test pieces are still very much that like from that generation I think
+[746.72s -> 755.52s]  in a peak. More has been done which got missed but I feel like they captured like people still
+[756.08s -> 764.16s]  cover those ascents the most so like yeah like the Ace and Voyager and or even like if you go
+[764.16s -> 770.72s]  go down to AA on grit and things you've you know like there are lots of little
+[771.76s -> 776.40s]  even like their emergence wall or Westworld and things like that you've got like
+[777.76s -> 782.16s]  little but like print finger pull you know like there's a lot even the rock covers and the
+[782.96s -> 790.56s]  the things are very fingery whereas it's much harder to think of a test piece on peak grit
+[791.68s -> 801.36s]  and pre-ned which has got a sloper on it. I'm just trying now and like super blocks probably
+[802.80s -> 809.44s]  your main open-handed test piece and that's from like 2001 from miles or was it 2000 I can't
+[809.44s -> 818.40s]  remember now. Just tying that discussion back in the thing you said earlier about
+[819.84s -> 828.64s]  Tim having experience in the county Northumberland and Wales and perhaps like the
+[828.64s -> 836.24s]  disparity in grade even throughout the country kind of like trying to muscle things which don't
+[836.24s -> 844.40s]  belong together into the same box right like in terms of like you're talking about subtlety
+[844.40s -> 851.76s]  there's so much skill based with like very subtle problems with slopers with tricks with like very
+[851.76s -> 859.36s]  unobvious things in comparison to the likes of very obvious crimper problems where there are
+[859.36s -> 863.36s]  no other features on the world you know exactly what to do and it's almost like you get a threshold
+[863.36s -> 868.88s]  and you'll probably do it in a few tries kind of thing well do you base do you like determine the
+[868.88s -> 874.08s]  difficulty of something based upon how long it takes someone to do something how hard it feels
+[874.08s -> 883.68s]  when they do it like it's like all like very subjective right oh yeah and then that's it you
+[883.68s -> 890.64s]  can arrive at a climbing area without all the little skill sets you need and even if you're
+[890.64s -> 897.12s]  missing one things can feel way harder and you see that so often in font like people just
+[898.08s -> 903.68s]  used to a finite hold and things and they just get stuck on the grotty patina climbing because
+[903.68s -> 908.80s]  like they can see the edges and things and pull on them and then they get like savage skin and
+[908.80s -> 915.44s]  you do find people that think fonts like pretty rubbish but i'd say it's often people that end
+[915.44s -> 923.44s]  up on that type of climbing and then um it's it's the same i've met people that hate castle hill
+[924.00s -> 932.00s]  um and will like never go back and i've never been but um it's it looks like a dream venue
+[932.00s -> 938.48s]  this looks amazing it's like full of high balls and you know amazing lines but open-handed holds
+[938.48s -> 946.16s]  pockets not not so crimpy but certainly some lines with with crimps too and um but yeah like
+[946.16s -> 951.20s]  people that really really dislike it um a good old friend of mine charick walker who
+[952.48s -> 957.92s]  did loads of impressive things under the radar on the peak for a while like um did he flash tsunami
+[958.56s -> 964.32s]  i think she's actually yeah no no it's tsunami took him ages but he flashed sit left i think
+[964.32s -> 972.48s]  press it left did stamina band in a pump up the power um did like bull paul when he lived in
+[972.48s -> 979.44s]  yorkshire but charick's like awesome really good australian boulder and hates castle hill but
+[980.08s -> 990.32s]  charick's like a really flicky crimpy climber um and then so to to put him somewhere where
+[990.32s -> 996.56s]  everything's like slippy and slopey and like mentally and and stuff i can imagine him really
+[996.56s -> 1000.80s]  not going on with it but um yeah and i've met other people since that have said the same thing
+[1001.36s -> 1007.36s]  but yeah with a certain without you know like the skill sets you have and the ones you're missing
+[1007.36s -> 1016.56s]  can often determine how hard the grades feel in an area but also um yeah sort of it's like
+[1016.56s -> 1022.24s]  enjoyment as well right yeah the pleasure you get from it and yeah and i also think that's a
+[1022.24s -> 1027.04s]  huge thing in terms of bringing grades down as well because if you go to a problem where you've
+[1027.04s -> 1032.56s]  got a slightly different skill set that fundamentally allows you it makes it easier because
+[1032.56s -> 1038.56s]  you've spotted just a better way of climbing it and that affects grades but that's maybe where
+[1038.56s -> 1043.36s]  there's a bit of like like if you're on holiday you'll just take the grade because you figured
+[1043.36s -> 1047.92s]  it out better but who cares it's like you're leaving in a week and then not really your job
+[1047.92s -> 1054.48s]  so like you can contact the local bouldering authority to say i've found a problem on your
+[1058.24s -> 1063.12s]  let's see yeah you gotta take the holiday grades i remember going to lockerton and being really
+[1063.12s -> 1068.08s]  disappointed um because the guide made it look amazing and there's probably less bouldering
+[1068.08s -> 1074.80s]  that i developed and is in the lakes and i did like uh i really wanted to do rough gem and stuff
+[1074.80s -> 1080.88s]  like that and but rough gem ended up being about the same difficulty as a merville really similar
+[1080.88s -> 1085.44s]  climbing and it's like it's not a huge difference i think merville's gone up to a plus now in font
+[1085.44s -> 1091.20s]  it used to be a and rough gem got given a b so it's it's not a huge difference but actually
+[1092.00s -> 1098.96s]  um for that kind of high ball uh i found i could do it pretty quick so i think katie was with the
+[1098.96s -> 1104.64s]  get with the owner in the car and i had a quick ab down it on a rope and i was like oh i've got a
+[1104.64s -> 1109.04s]  really good method here i'll just do this i'll go and get katie and then like 15 minutes later i did
+[1109.04s -> 1115.84s]  the problem and i was like oh i'm a bit lost now i guess i'll get on some projects yeah i did moon
+[1115.84s -> 1120.32s]  ret as well which is on that boulder and then there's there's like it's really spread out
+[1120.40s -> 1124.88s]  oftentimes you end up driving for ages so i was like oh there's an amazing project you should
+[1124.88s -> 1130.08s]  if you ever find yourself there and on the back of that boulder there's an amazing like such a good
+[1130.08s -> 1136.32s]  world class line on the rough gem ball i've seen that's what that one's on your flicker yeah so
+[1136.32s -> 1140.80s]  like um there might be a picture of the project it's like a crimpy seam that leads up into this
+[1140.80s -> 1148.00s]  7c that i think's called the second and um yeah that crimpy seems like i i pretty much did all
+[1148.00s -> 1154.00s]  the moves there might be one move i didn't do but yeah like there's a it's just an example of
+[1154.00s -> 1159.52s]  like suddenly i was like oh i guess i'm trying the projects now and then whereas say if that
+[1159.52s -> 1166.96s]  had been more the difficulty of lanny bassam or something which got given a plus but it's
+[1168.32s -> 1172.64s]  like i think it's settling at 8b now because it's so ridiculous for the amount of people it's
+[1172.64s -> 1181.92s]  repelled and yeah um but like lanny is involved it takes a lot of it's got a load of skill sets
+[1181.92s -> 1189.36s]  and as well as being committing and high ball and stuff and um uh yeah so like it would have been
+[1189.36s -> 1196.00s]  more of a challenge had those grades been exactly comparable but it's just you just like crack on
+[1196.00s -> 1201.44s]  and deal with it don't you when you when you're abroad you might if an area's soft you just float
+[1201.44s -> 1208.40s]  up a bit and you you start targeting another um i don't i mean i think climbing could function
+[1208.40s -> 1214.40s]  really well without grades um i think people would get a lot more from the sport like surfers
+[1214.40s -> 1221.04s]  don't grade their waves uh it's it's like you don't grade your snowboard run down the slope
+[1221.04s -> 1226.88s]  um i guess you know you do time your runs but not every trail run needs to be timed i guess
+[1226.88s -> 1236.64s]  grades are like the strava element of climbing it's like that part that um communicates to others
+[1236.64s -> 1242.88s]  what you've been up to or how you're doing or yeah i guess but um it it can function without
+[1242.88s -> 1248.96s]  them perfectly well and you can have loads of fun and people do try it but um yeah like they
+[1248.96s -> 1255.28s]  are a necessary part of it as well i think it'd be difficult practicality element is i guess in
+[1255.28s -> 1264.00s]  terms of like if you're looking to um apply a bit of self-development and i don't know drive
+[1264.56s -> 1270.16s]  three days to finland like you'd be a bit disappointed if you just warmed up on this
+[1270.16s -> 1275.76s]  thing and you're like oh right i'm going home yeah well the opposite is true you spend like
+[1275.76s -> 1280.32s]  three hours hiking in for something that turns out to be like way way way too hard
+[1281.28s -> 1286.48s]  yeah yeah and that's what they're amazing for isn't it it's like the best first guess
+[1286.48s -> 1292.24s]  the um but that's the funny thing if you become more of a developer is like everything's just
+[1292.24s -> 1299.36s]  lumps of rock so like i see things as just lumps of rock so i don't function from a following
+[1299.36s -> 1304.24s]  perspective that often but when i'm in font i do that all the time and i just pour over the
+[1304.24s -> 1310.32s]  guidebook to find what i want to try on that day so i like i find them so useful but also
+[1310.32s -> 1316.80s]  i can function perfectly happily getting an os map out and then going for a stomp about in the
+[1316.80s -> 1322.48s]  moor and then looking at a load of blank bits of rock and then ascertaining from them what i'll
+[1322.48s -> 1327.68s]  enjoy the most i like find a challenge and i feel like that's what loads of climbers never do and
+[1327.68s -> 1335.12s]  they never get to have that experience um but also it relies on a load of other things like
+[1335.92s -> 1344.48s]  i know so many people that get a bit of anxiety or um would be uh reticent if you don't mention a
+[1344.48s -> 1352.00s]  plan like what what you're up to for the day or like almost no one will ever go oh yeah then i'll
+[1352.00s -> 1355.92s]  come with you to go and look at that random place near the river earthing
+[1358.88s -> 1363.76s]  if i go back a few weeks later and i say hey look there's this awesome maybe there um do you
+[1363.76s -> 1368.40s]  want to come like check this out here's some photos then suddenly it's like oh it's like
+[1368.40s -> 1372.72s]  because like queen's crack people drive from all over the country and they'll be like oh yeah i'm
+[1372.72s -> 1379.68s]  keen to try queen kong but it was just a lump of rock when i got there and it's like a you you
+[1379.68s -> 1384.16s]  like oh yeah there's some opposition that'd be quite fun to squeeze up i'll try and figure that
+[1384.16s -> 1391.28s]  out and that's what me and kristen back in the day but but yeah so i feel like i can see both
+[1391.28s -> 1398.96s]  perspectives but i i think um the no great like niccolo chariot and lucas managetta you're two
+[1398.96s -> 1404.64s]  really world-class boulders and they both manage to function niccolo never mentions grades on
+[1404.64s -> 1409.76s]  instagram if you look um follow follow him on instagram and he'll he'll happily chat about
+[1409.76s -> 1415.60s]  doing a 7b he loves and then he'll happily chat about the 8c plus or 8c he just repeated and then
+[1415.60s -> 1421.44s]  he'll happily chat about this 5 plus and this hold that he loved on it and i think he does a really
+[1421.44s -> 1430.56s]  good example of showing how climbing can function without grades um but what you need is for it to
+[1430.64s -> 1435.68s]  function you would have to know that a certain climber has put loads of effort into something
+[1435.68s -> 1442.08s]  or you basically have to know how good different climbers are and what their skill sets are which
+[1442.08s -> 1448.40s]  you kind of figure out when you get near the top end of bouldering anyway um so i could function
+[1448.40s -> 1453.84s]  in font without grades but i would have to have some info on the first ascensionist and then
+[1453.84s -> 1460.32s]  ideally a little bit about maybe the effort they put in but i think that's the ultimate reflection
+[1460.32s -> 1468.88s]  of how hard something is is how long it takes you um so and just just from what you said
+[1468.88s -> 1474.64s]  previously it would seem like that would definitely i think you would really appreciate
+[1474.64s -> 1478.96s]  that i think you appreciate more of the having to do that extra bit of work and that doesn't put
+[1478.96s -> 1486.00s]  you off whereas most climbers now kind of want to do a bit more paint by numbers like i'm not even
+[1486.00s -> 1490.16s]  going to try a boulder until i've seen a video of someone doing it and then i'll probably try exactly
+[1490.16s -> 1494.32s]  the way they tried it for ages and not even really consider that i might do it differently
+[1495.04s -> 1500.08s]  um and this at this podcast actually will follow on really neatly from when we've just done with
+[1500.08s -> 1505.84s]  dave mcleod which isn't out yet the second part um because i spoke to him about how because he
+[1505.84s -> 1512.48s]  spends so much time doing first ascents um when he comes to repeat something he frequently
+[1513.52s -> 1518.16s]  does it in a completely different way because like you were saying just now about it's just
+[1518.16s -> 1523.68s]  a lump of rock and and i've kind of ruminated on that a little bit and i've thought actually
+[1524.48s -> 1532.64s]  that is kind of what makes him a rock climber and me as someone who just repeats what i've seen
+[1534.56s -> 1539.28s]  it's quite but it's like a different skill set which actually makes you a skilled climber of
+[1539.28s -> 1546.96s]  rocks yeah yeah it's um and it's really annoying so like i i have that and i can't my brain will
+[1546.96s -> 1551.60s]  tell me in the back of my head if there's an easier sequence and i can't physically put the
+[1551.60s -> 1557.12s]  effort into the established sequence if there's something in my head that's saying no no no there's
+[1557.12s -> 1562.16s]  no way doing this so i'll give you an example so like um we went to see some friends in bristol
+[1562.16s -> 1568.72s]  last year and i'd like a day at biblins and then i got on the most conceptual problem in bouldering
+[1568.80s -> 1569.28s]  godzilla
+[1573.84s -> 1580.32s]  you uh you pull on in a completely arbitrary place and drop off in a even more arbitrary place
+[1580.32s -> 1586.96s]  and um but like so it took me a little while to find the start holds because it turned out i was
+[1586.96s -> 1594.16s]  starting in godzilla no what zilla said i was starting a bit too deep and um so i had to look
+[1594.16s -> 1598.48s]  up a video on the web to find out where to start it because it wasn't that clear with the top of
+[1599.36s -> 1605.04s]  my head and i was like oh that's it and then everyone was going it's like a two-hole problem
+[1605.04s -> 1610.88s]  isn't it you roll over right hand to the crimp and then you get the undercut and and so i had
+[1610.88s -> 1615.92s]  one go on that and i got the horn and then i dropped it uh matching on my flash oh it wasn't
+[1615.92s -> 1621.36s]  my flash go because i tried to pull down lower down but um and straight away my brain was like
+[1621.36s -> 1626.24s]  that's a fucking shit sequence you're getting the undercut with your wrong up you're getting that um
+[1626.56s -> 1631.28s]  like this is all wrong handed even though it feels right so i was like oh well i'll just
+[1631.28s -> 1635.44s]  i'll give this a go i can see a foot hold there i'll pull on these undercuts i'll get that crimp
+[1635.44s -> 1639.28s]  in my left hand and then i can ball straight into the massive undercut that you finish on
+[1639.28s -> 1644.64s]  with your right hand and i'm getting it in a strong position and then straight away i just
+[1644.64s -> 1650.56s]  did it next go and then um was in a really strong position on the undercut to go straight into
+[1651.20s -> 1658.88s]  what would be spaceship but we only had like um two pads so and i was like oh it was a bit
+[1658.88s -> 1664.80s]  you know like a bit funny to work that ground up so um but that's a shame so i went and did like
+[1664.80s -> 1670.00s]  punter proof roof and tried a project and then tried the wadzilla sit into it and stuff but
+[1670.88s -> 1675.68s]  it was amazing because i was like i looked on ukc and i was like this has had like 23 ascents
+[1676.24s -> 1682.08s]  or more why the hell has no one spotted that you just go with your left hand to this crimp and
+[1682.08s -> 1687.76s]  use that foot hold because like it was and like you come into the undercut as a flipping massive
+[1687.76s -> 1694.64s]  undercut instead of coming into it getting a little horny thing and then trying to or spend
+[1694.64s -> 1699.76s]  the rest of like four foot moves and a body position to try and turn it into a big undercut
+[1700.40s -> 1708.40s]  and i was like um sure but then i was like oh maybe no because like this is i was like i guess
+[1708.40s -> 1713.84s]  i'm just looking at this as a lump of rock and and i think a lot of people will go and just look
+[1713.84s -> 1718.80s]  at godzilla and godzilla is like pulling on and going with your right hand but if i went back
+[1718.80s -> 1725.28s]  there now i'd be like really positive about my chances on the extension and the lower and
+[1725.84s -> 1730.96s]  the combo links and stuff because i was so happy with that what is ultimately the meaty part of
+[1730.96s -> 1739.20s]  that sequence um or it seemed like the real faff on is uh matching the horn and stuff and suddenly
+[1739.20s -> 1744.24s]  i'm like well there's a giant foot holding you ball into it so obviously in my head i'm like
+[1744.96s -> 1754.00s]  really really positive but if that sequence wasn't there i don't know if my brain would have shut up
+[1754.00s -> 1759.92s]  and if i could have really committed to matching the horn i would hope it would have done but
+[1759.92s -> 1765.92s]  that's the bit i struggle with nowadays is i'll often argue with myself on a problem if it's not
+[1765.92s -> 1774.56s]  that clear um i tried that project in i went to look at boulder aiden in on hell bellen and that
+[1774.56s -> 1782.00s]  was again a good example so like that totally goes the project of the vague rib on the right
+[1782.88s -> 1787.52s]  of that yeah yeah i went up there with um with flynn and flynn was giving me lots of weird looks
+[1787.52s -> 1794.48s]  because i was just chatting on um but uh it'll you would have done it in like a few goes i think
+[1794.48s -> 1802.00s]  like with a high frob and like shoulders and going for the lip but and i i like could stick
+[1802.00s -> 1806.40s]  the move with a little bit of a push but um it was like misling a bit and i was like i've got
+[1806.40s -> 1812.32s]  no chance today but i was like and also it's really spiny and i could see it that that wasn't
+[1812.32s -> 1817.04s]  like it was putting flint off and i was like there's definitely another way here and it's
+[1817.04s -> 1823.60s]  like niggling away in the back of my head and um uh and i was like i reckon there's a catch heel
+[1823.60s -> 1829.52s]  on like that uh sub 20 mil edge on the slight angle change and then i'll be able to flick into
+[1829.52s -> 1834.80s]  the undercut and it'll make the span less and sure enough with a tiny a time similar or even
+[1834.80s -> 1840.08s]  less push i basically did the whole problem and then the next go i was trying to do it and and
+[1840.96s -> 1848.48s]  but like the obvious for voice yeah it's just like so much um but like the problem is is like
+[1848.48s -> 1853.52s]  it can make you weaker i think if you don't mean because you're always you've always got like this
+[1854.24s -> 1860.88s]  figure the sequence niggle going on and rather than just cracking on like like tim is the opposite
+[1860.88s -> 1867.92s]  isn't it like yeah has none of this well he's got a bit more now but old tim was like that just
+[1868.56s -> 1876.08s]  wasn't at all it's just the next old what did you do like i just called really hard and just
+[1876.08s -> 1881.92s]  fucking gave it a hundred percent and we actually chatted about that we had robbie phillips on the
+[1881.92s -> 1887.84s]  podcast a few episodes ago and he was talking about his approach working like on them in that
+[1887.84s -> 1892.80s]  not hoping holy film um and he was working on the crooks and he was like yeah alex has this
+[1892.80s -> 1897.36s]  maybe it's just a boulders approach where he just he just goes for it and doesn't really like
+[1897.36s -> 1900.32s]  refine his sequence at all but it's definitely not a ball
+[1902.32s -> 1909.68s]  more than a personal thing of the natural climber isn't he so he just climbs and he
+[1909.68s -> 1914.72s]  touches the rock whereas um yeah yeah we we struggle a bit more to get fired up normally
+[1915.04s -> 1920.40s]  are you you're just over strong and i do need to give myself a kick up the ass i think um
+[1920.40s -> 1927.92s]  with i used to have a bit more and now i just there's so much like it's hard to silence that
+[1927.92s -> 1932.64s]  that voice in my head that tries to find the sequences now yeah we actually um it was just
+[1932.64s -> 1938.56s]  yesterday i was in the school room i was having like a i've been getting some mental training off
+[1939.28s -> 1945.44s]  hazel finley um and a lot of that has been acknowledging like the value of that like
+[1945.44s -> 1951.04s]  explicit thought system but actually like when coming to like execution on a hard climb uh
+[1951.04s -> 1959.20s]  trying to have a bit more of like a clear mind um and uh we were discussing a lot of how that paid
+[1959.20s -> 1965.20s]  sam was out at the board session which is a bit more relevant but um we were discussing a lot
+[1965.20s -> 1971.04s]  about how that plays into like movement patterns and the style in which you end up climbing but um
+[1971.04s -> 1975.04s]  i definitely think well obviously there's benefits to it as well i definitely think that
+[1975.04s -> 1980.56s]  it's kind of a problem solving mindset right um i don't know if it's a very associated with
+[1980.56s -> 1986.32s]  bouldering development i mean i definitely got lots of my outdoor climbing tactics from yourself
+[1986.32s -> 1992.16s]  dan um but then when we chatted to dave on the last episode as well it definitely sounded like
+[1992.16s -> 1996.88s]  well he described the anecdote you were talking about at biblin's cave
+[1996.88s -> 2003.52s]  dave described a really similar thing at um raven tour on keen roof uh the move where everyone
+[2003.52s -> 2009.92s]  slapped right hand to the lip he was just going left hand to the lip and um it was kind of like
+[2009.92s -> 2014.24s]  that like willing to try that unconventional thing and yeah like i like this whole thing
+[2014.24s -> 2019.36s]  about viewing it like a piece of rock and um having that like kind of puzzling mindset
+[2020.08s -> 2026.72s]  um definitely feels like uh maybe a trait that is picked up more through development than um
+[2027.28s -> 2034.80s]  yeah i think you need but that's such a rare um thing to get the chance to do is to look at blank
+[2034.80s -> 2041.28s]  rock and stare and imagine and then try and use your skill sets because the funny thing is i i
+[2041.28s -> 2048.32s]  barely would ever climb anything the same way as dave like we've got some similar like preference
+[2048.32s -> 2057.76s]  for drag strength and things but dave's got way more body power um like more of like a european
+[2057.76s -> 2066.08s]  style core tension um and yeah but like from a brief time climbing with him it seemed like he
+[2066.08s -> 2071.12s]  used to i mean he's had a lot of heel injuries and things so he's shied away from lots of types
+[2071.12s -> 2078.08s]  of heel hooks really good with his toes so like there's a lot of opposites there um which is
+[2079.12s -> 2084.88s]  yeah it's like it but it's amazing that rock allows you to once you know your skill set you
+[2084.88s -> 2089.84s]  can read features in different ways yeah which is like i think one of the really cool things about
+[2089.84s -> 2096.72s]  like when obviously everyone has very different skill sets like climbing a climb in the way in
+[2096.72s -> 2104.16s]  which suits your skill set the best um it's kind of like quite uh or it offers quite a
+[2105.04s -> 2111.12s]  fun experience in that like it gives you the opportunity to have that like kind of
+[2112.08s -> 2118.00s]  puzzle-like stimulation on even the most world traffic climb but it's more of an attitude i
+[2118.00s -> 2126.32s]  guess than like a um a trait maybe when's uh when you come in to uh smash some hard open-handed
+[2126.48s -> 2135.68s]  boulders in some yeah i i value your open hand pocket strength i think you you've got a good
+[2136.64s -> 2142.08s]  you probably you might do do you even know you're mega strong on drags and yeah i tend to climb and
+[2142.08s -> 2148.80s]  chisel unfortunately i can't seem to actually use it on rock very well but maybe maybe more on the
+[2148.80s -> 2153.28s]  rock types you function on right definitely like it's very noticeable climbing with you on the
+[2153.28s -> 2159.76s]  school board like the positions of your fingers but like some of like the more rounded slopey
+[2159.76s -> 2165.92s]  stuff which i kind of like or like the font you know the classic font um what do you call the
+[2165.92s -> 2170.56s]  rocks with like the slopers with the ripples in it which i kind of favorite yeah the turtle
+[2170.56s -> 2175.84s]  shell stuff where you have that like chisel like with straight index and straight pinky but you're
+[2175.84s -> 2182.40s]  kind of almost crimping um that that would probably suit you really well yeah possibly
+[2182.40s -> 2189.60s]  and get into it more it's actually something you said just now about how like um developers
+[2190.72s -> 2197.12s]  and how like you develop that um ability to see things differently and and that kind of uh
+[2197.12s -> 2201.28s]  kind of cryptic mindset i think it's i think it's the other way around i think people who
+[2201.28s -> 2206.56s]  like that sort of thing are drawn to developing yeah chicken chicken in the eye i think it's
+[2206.56s -> 2210.08s]  chicken there i reckon it's the other way around i think those are the people who want to go
+[2210.08s -> 2215.60s]  developing and then developing helps teach them more things which they then apply to other things
+[2215.60s -> 2221.76s]  but like some people almost want to make it a bit harder for themselves so that old saying if like
+[2221.76s -> 2226.32s]  nothing worth having comes easy it's like i don't want it to be an easy challenge i want it to be
+[2226.32s -> 2233.76s]  difficult and then you get that extra you know positive feedback for overcoming it and people
+[2233.76s -> 2239.52s]  really want to do stuff a certain way and um as well and and you feel like sometimes you cheat if
+[2239.52s -> 2245.60s]  you do find a new sequence there's so many mental factors in climbing that are fascinating to watch
+[2245.60s -> 2252.48s]  at the crag and you know i've seen people like you know really scupper their days out just by like
+[2252.48s -> 2259.60s]  no i'm gonna do it this way and uh and unwilling like arguing with their friend because they won't
+[2259.60s -> 2266.88s]  try a heel hook or something you know on a problem or or like um katie often listens to me now but
+[2266.88s -> 2273.68s]  we still have arguments over like if she's in a mood and like uh like i've pushed it too much i've
+[2273.68s -> 2279.60s]  probably done a load of other things that have been really like not tidied away my breakfast
+[2279.60s -> 2289.76s]  stuff as a man um yeah and then suddenly my advice is like pretty caustic um but uh yeah like i i
+[2289.76s -> 2296.32s]  swear like i can see how to do the problem but you know be a spray is a annoying buggers a lot
+[2296.32s -> 2302.32s]  of the time and um yeah so like knowing when to dispel the air but yeah you see it all at the
+[2302.32s -> 2308.88s]  crag it's fascinating um i did this really most enjoyable thing i did last year was this new 8b at
+[2308.88s -> 2317.44s]  ferlstein um like perfect standalone stand-up sandstone 8b uh really quite open-handed hold
+[2317.44s -> 2325.68s]  some crux is off like a bad chiselly pinch oh lovely sandstone one um yeah like only one foot
+[2325.68s -> 2332.88s]  old good if you don't yeah yeah we need to talk about coordination of the whole body there's only
+[2332.88s -> 2339.28s]  one foot on there only need your left leg um because i've had a bit of a pack right arm last
+[2339.28s -> 2343.44s]  year so actually a lot of the only hard climbs i did last year were really left hand biased
+[2343.44s -> 2349.84s]  um and both the hard climbs i did go that way last year so like they're really loading the left
+[2349.84s -> 2355.12s]  arm more and the right arms in more of like a passive position tagging rather than leading
+[2355.76s -> 2363.28s]  and um but yeah like this problem there's such a beautiful sequence on it rolling over to this
+[2363.28s -> 2370.80s]  pinch and um and i did it uh rolling over to the pinch um and flicking out at the end and stuff
+[2370.80s -> 2378.16s]  but not before i did the problem um but because i i could see there was a hole just behind it
+[2379.12s -> 2388.56s]  and then i found a way of making that sequence uh slightly easier so like it was like maybe 60 40
+[2389.36s -> 2395.84s]  so like slight swing of being a bit easier it wasn't way easier but um but it was definitely
+[2395.84s -> 2400.56s]  less fun and less cool because it didn't like the rollover move to get the pinch was just such a
+[2400.72s -> 2407.84s]  amazing move um and and so i like i forced myself to do it the easier way and sort of to
+[2407.84s -> 2413.68s]  write the problem up without restriction because that's how i believe how hard bouldering should
+[2413.68s -> 2423.12s]  be um if if possible but um but all like all the board climbing and like appreciating a good pinch
+[2423.12s -> 2428.16s]  part of me just wanted to like write it saying no you're not allowed that hold to the left
+[2428.16s -> 2434.72s]  and things like that and and it's like my friend keith went to try it uh bradbury and that's like
+[2434.72s -> 2439.84s]  one of the first things keith said was like oh how amazing is that pinching the rollover move it's
+[2439.84s -> 2445.52s]  like are you allowed to hold back and left i was like yeah yeah yeah it's like it's just a bit of
+[2445.52s -> 2452.16s]  rock you're allowed like it is a really cool standalone and like it's so rare to find stand
+[2452.16s -> 2459.28s]  up sandstone 8bs so like i think it's the only one in scotland and the only other person i think
+[2459.28s -> 2468.88s]  in the uk that's developed a stand-up 8b i think is malc with monk life so it's like grades are
+[2468.88s -> 2476.56s]  such a shit and like it's it's not that hard nowadays oh it's you know whatever it doesn't
+[2477.20s -> 2482.56s]  doesn't have any facts it doesn't have much weight on the ground but if you look at some
+[2482.56s -> 2487.92s]  other factors or you judge it through different lenses you maybe start to appreciate so as a
+[2487.92s -> 2493.76s]  developer i'm like wow i've only ever found like five or six of these and then i treat them like
+[2493.76s -> 2499.28s]  gold dust if i do find something that's and it's it might not be a b it might be like a plus ish but
+[2500.08s -> 2506.00s]  you know like it's in that ballpark and and it was a really nice challenge another way of
+[2506.00s -> 2511.20s]  summing it up was like it was a great sort of three four session challenge for me after work and
+[2512.16s -> 2518.40s]  got to like look at the the birds migrating off off the sole way in october and back to the lakes
+[2518.40s -> 2522.72s]  and got to go there when it was a bit quieter because we went with the family a bit earlier
+[2522.72s -> 2527.60s]  in the year it's a really good family venue and i'd snubbed it when i was 17 so it's like
+[2528.16s -> 2535.68s]  it's funny teaching teenage me a lesson about appreciating things on your doorstep
+[2535.68s -> 2543.76s]  but like i had such a nice experience on that but again i had to fight for that but i i wouldn't
+[2543.76s -> 2550.08s]  surprise me if i did write it up off the pinch i think a lot of people would follow and wouldn't do
+[2550.08s -> 2557.84s]  it off the pinch still which is that funny bit of climbing um you know like jack seems really
+[2558.56s -> 2563.20s]  uh particular about that about making sure things are done the right way and how the first
+[2563.20s -> 2571.84s]  first attentionist did them um which is nice um you know as far as like a self-regulating
+[2572.72s -> 2581.44s]  bulgarian body goes but also sometimes you do like some some rock types really need that
+[2581.44s -> 2588.00s]  like limestone and then other rock types like grit or sandstone i feel like it really can devalue
+[2588.00s -> 2593.36s]  a line if you have too many rules and restrictions so you find a lot less eliminates on sandstone
+[2594.40s -> 2604.72s]  um anecdotally um yeah yes um it's just a another one of those things but it's about like what are
+[2604.72s -> 2610.72s]  we trying to do are we are we trying to develop people's ability to climb a rock in which case
+[2610.72s -> 2616.00s]  the rules kind of set that back so if you force people to put a square peg in a round hole and
+[2616.00s -> 2621.12s]  climb it like the first centrist did if that first centrist was like a foot taller or shorter
+[2621.12s -> 2625.68s]  than you that's not really fair is it it's also kind of like an arbitrary difficulty
+[2626.48s -> 2630.96s]  because like you did it that way as a first centrist because that was the easiest way for
+[2630.96s -> 2636.08s]  you and now you're forcing other people to do it in a way that's harder for them or they don't get
+[2636.08s -> 2641.12s]  it which is yeah i think that's a little bit of like ego coming into climbing as it always does
+[2641.68s -> 2648.40s]  it impedes creativity as well in like a yeah where in a sport where that is i think
+[2649.28s -> 2654.00s]  the coolest parts of it and well hopefully people just get what they really want out of
+[2654.00s -> 2662.40s]  climbing if if if the sport's as good as we all think it is um yeah i i think that kind of freedom
+[2662.40s -> 2668.64s]  or i just like appreciating i i like watching people at the crag or respect when someone
+[2668.64s -> 2674.72s]  really wants to do something a historical way there are some problems i've made sure like i
+[2674.72s -> 2680.96s]  don't want to do pools with the heel hook of bethesda um it's one of the harder problems
+[2680.96s -> 2689.28s]  i've not done in wales um of like especially the really older problems um but uh for me if i put my
+[2689.28s -> 2696.16s]  heel on the aret on pools i've got like it's it's perfectly valid sequence on any other problem i'll
+[2696.16s -> 2702.72s]  be like yeah that's just better way of doing it but for pools of bethesda i would pull on on the
+[2702.72s -> 2707.52s]  porthole and try and make the toe hook catch as i hit the thing because i think that's an amazing
+[2707.52s -> 2712.56s]  move to find on rock and historically it's it's a really important problem in the uk and i'd like
+[2712.56s -> 2720.80s]  to appreciate and feel what that sensation's like and maybe get like a bit more of a um a view into
+[2720.80s -> 2725.84s]  say what was going on in like paul higginson's head when he figured that out and like was it
+[2726.08s -> 2733.52s]  was kind of accidental i think the toe hook catching but um yeah so like that's one example
+[2733.52s -> 2739.92s]  but then on loads i'll say like godzilla where i was just like i haven't done the problem if you
+[2739.92s -> 2745.12s]  if i was in paraselas it's like a patrocity isn't it i've like i've totally not done that problem
+[2745.12s -> 2752.32s]  i've used exactly the same holds but um yeah but i was like i'll just take a tick you know like it
+[2752.88s -> 2759.12s]  it's it's good as but um yeah so like i'm my own contradiction but i just want to get out of
+[2759.12s -> 2766.56s]  climbing what you know sometimes the day will influence me or or like yeah have i if i hadn't
+[2766.56s -> 2771.28s]  have seen stick it and if i hadn't have read early magazines i probably wouldn't have put pools in
+[2771.28s -> 2779.84s]  that special box and if um i haven't done uh done the ace uh that's a that's a huge omission off my
+[2779.84s -> 2786.96s]  grit roster and i got really close to the ace uh on the night session on my own at uni and um
+[2786.96s -> 2793.20s]  but i never wanted to do it the right hand go again i always wanted to do it like jerry and i i
+[2793.20s -> 2799.36s]  personally think john shouldn't have glued the jug back on because if you do it the double tap way
+[2799.36s -> 2805.52s]  you really don't need the jug and i feel like that would have been like i disagree with gluing holds
+[2805.52s -> 2810.32s]  anyway but i just feel like that would have been a sweeter problem i was gonna i was gonna bring
+[2810.32s -> 2816.08s]  up this question when you came when you raised up just before we talk about just before we talk
+[2816.08s -> 2820.08s]  about gluing holes which we're definitely going to get to next i just thought it's really funny
+[2820.08s -> 2826.80s]  that you say that because i did the ace recently but i've spoken to aid and i said before to you
+[2826.80s -> 2832.24s]  didn't i i didn't want to do it the left hand method and i refused to try it the left hand
+[2832.24s -> 2837.36s]  method because for me when i first saw the ace doing it it was ned going right hand oh again
+[2837.36s -> 2842.32s]  let's swing on the welcome so even even though that wasn't what was originally done i wanted to
+[2842.32s -> 2848.00s]  replicate what i'd seen as you know someone who was getting yeah yeah and so it's so funny i
+[2848.00s -> 2853.68s]  really wanted to repeat it the wrong way because that was the way that i'd seen it and that is the
+[2853.68s -> 2859.36s]  way now i feel like 90% of the sense of probably that way now maybe more i don't know i actually
+[2859.36s -> 2865.28s]  think it's the other way now i mean just on i was working i worked it on a few sessions last year
+[2865.28s -> 2871.04s]  and i saw two or three people do it and they all did it the left hand way right it's more weird
+[2871.04s -> 2875.04s]  waterhouse did it this year with the left hand way i think it's more i think it's more common
+[2875.04s -> 2881.36s]  at the moment i guess it's an age of comp climbers that's quite a funky move yeah they don't mind a
+[2881.36s -> 2886.72s]  little paddle do they oh it's such a good mate like again it's so rare because i i value a lot
+[2886.72s -> 2895.36s]  of things outdoors for like the rareness factor and and like what i get really excited if something
+[2895.36s -> 2901.28s]  like that crops up on rock so it's it's so cool to see things like that like double taps and stuff
+[2901.28s -> 2906.96s]  um the funny thing like one of my only uh do you know a problem called glen ross at fairhead
+[2907.68s -> 2917.84s]  um like a problem of mine that's a double tap up like a 55 60 degree overhang and you do like a
+[2917.84s -> 2924.88s]  everyone does it like double tapping in the side pull but i like strong mong that um and just like
+[2924.88s -> 2929.52s]  stuck the you know where you should do a double tap i just like tensed really hard and stopped
+[2929.52s -> 2934.00s]  the move and then went into the thing but i've since done it with the double tap and it's just
+[2934.00s -> 2939.44s]  a way better problem but i get probably falsely credited for coming up like it's one of the best
+[2939.44s -> 2945.76s]  moves going on rock that i've probably ever found but it's it's not my move it's ricky's ricky sort
+[2945.76s -> 2951.12s]  of figured that way out um that's the like he's in blockheads isn't that one i don't know if you've
+[2951.12s -> 2956.80s]  seen that film did they put block did they yeah yeah i'd say i repeat it but i'll learn that and
+[2956.80s -> 2964.32s]  i think i do the double tap thing yeah yeah yeah yeah i never yeah yeah lots of things sit to that
+[2964.32s -> 2973.52s]  still project i've heard yeah yeah oh there's so much so what's what's your viewpoint on
+[2973.52s -> 2978.48s]  gluing holds then dan i was gonna bring that up when you uh mentioned i think you mentioned the
+[2978.48s -> 2986.32s]  phrase of not um in reference to the thurlstein thing of uh choosing the slightly worse sequence
+[2986.32s -> 2991.04s]  in order to avoid degrading the climb that made me think of gluing holes
+[2994.48s -> 3003.36s]  after our chats in there up in scotland um yeah i strongly i don't strongly disagree with it i can
+[3003.36s -> 3011.76s]  respect why people do it and if it really adds value to the community getting a better problem
+[3012.72s -> 3017.60s]  uh i don't mind it personally if it was up to me
+[3019.68s -> 3024.08s]  when it has been up to me i've never glued anything on i tried to glue one hold back on
+[3024.88s -> 3033.28s]  on an 8b of mine in northumberland called n sequence um which it is uh god it's like
+[3034.40s -> 3040.64s]  12 years ago now and it's uh i don't think that's been repeated but it's got so i tried to glue this
+[3040.64s -> 3046.80s]  little a back on because i thought oh it's it's a crucial hold and um the glue didn't go off because
+[3046.80s -> 3055.12s]  it was too cold i think resin's pretty fussy uh well that type of resin was and uh i ended up
+[3055.68s -> 3060.40s]  having probably one of the best first descent experiences i've ever had and it's still probably
+[3060.40s -> 3066.96s]  the coolest move i found on rock on in that one move for my height so i have to you come out of
+[3066.96s -> 3071.84s]  roof and you end up using a really crap slope on the lip and you get another really crap sloper
+[3071.84s -> 3076.72s]  and the only way you can hold the holds you can never do a pull up on them and but you can make
+[3076.72s -> 3081.36s]  it work with the heel behind the roof but then there's another hold which is the start of chris
+[3081.36s -> 3088.64s]  graham 7b called lawn sequence um which is like a big jump start and it's just out of reach um
+[3088.64s -> 3092.64s]  but quite a bit so it's like two two and a half foot above where these slopers are
+[3093.52s -> 3098.08s]  and i found i was flexible enough to get like a smear on the lip but then that puts even more
+[3098.08s -> 3102.48s]  pressure on the heel and it starts to rip so you have to like drag the heel off and but you
+[3102.48s -> 3106.72s]  scrape your foot out the roof but as that's happening you weight the left foot and you
+[3106.72s -> 3111.92s]  paddle and you you don't quite double paddle but you sort of paddle and you hold a really torsh
+[3111.92s -> 3120.96s]  like a twisty swing and then it's just like um there's been some great moves i've come across on
+[3120.96s -> 3127.84s]  rock like the float move on delirium font um that's always one that springs to mind or um
+[3127.84s -> 3132.24s]  there's there's a lot of other moves in front like the the dead point on supreme
+[3132.24s -> 3138.24s]  the dead point on a plot to gain but i i really like complex moves where there's a lot going on
+[3138.24s -> 3144.16s]  and if i'd have glued that hold back on that move would never have been there it would have just
+[3144.16s -> 3152.56s]  been like some aa or something like that that has a little crimpy move on um and and that's
+[3152.56s -> 3158.48s]  always stuck in my head there's a big regret for trying to glue it on but i'm glad i didn't and i'm
+[3158.48s -> 3167.36s]  glad i had enough skill to climb it without um and what i don't like to see is the future generations
+[3167.36s -> 3173.60s]  being robbed of challenges by gluing holds back on and that's why i got a bit bit ranty in scotland
+[3173.60s -> 3180.08s]  this year when uh i see that uh there's an entire new boulder been developed where almost
+[3180.08s -> 3186.88s]  every hold's artificial and maybe there would only have been one line on the boulder but it's
+[3186.88s -> 3191.68s]  not entirely doable yeah that was a good example because that was like that one line would have
+[3191.68s -> 3201.52s]  been proud and flipping really hard yeah that's no bad thing it just can sometimes frame it and
+[3201.52s -> 3207.20s]  make it even more impressive and i feel like the sequence i found on it that didn't use any glue
+[3208.24s -> 3214.80s]  was actually nice on really nice holds and yeah it would be like a really good
+[3215.44s -> 3222.16s]  8b or 8b plus or something like that but like i wasn't really in the shape then uh my right arm
+[3222.16s -> 3228.72s]  was really bad that day um i like just went downhill at the end of that trip but um yeah like
+[3229.28s -> 3236.96s]  i mean it's it's all about if the community up there really values having easier problems to go
+[3236.96s -> 3243.92s]  out and is happy pulling holds off and then putting them back on and selecting what holds put back on
+[3245.12s -> 3256.24s]  yeah like go for it um but but like i do feel like if a bouldering area can be glue and chip free
+[3256.32s -> 3264.16s]  and chip free and then it ultimately resonates with a better sport because we become less like
+[3264.16s -> 3270.72s]  root setters and more listening to nature and what's naturally there so i try and like respect
+[3270.72s -> 3276.88s]  blank areas of rock as well like i could have done um i think another good example is like
+[3277.52s -> 3281.36s]  superpowers could so easily have been my problem like i was on the scene
+[3282.32s -> 3288.72s]  and what i went i did a lot of the problems on that face in 2006 and i could have just prized
+[3288.72s -> 3293.60s]  the flake off on superpowers and then it's up to me where what the gap i leave when i glue it back
+[3293.60s -> 3300.88s]  on if i left um a one pad gap behind that flake oh yeah yeah you could literally just change the
+[3300.88s -> 3304.96s]  whole size couldn't you yeah yeah it's up to you when you put it back on how much you squidge it
+[3304.96s -> 3312.72s]  it's entirely human decided um you know and it's much easier than chipping a boulder uh and and
+[3312.72s -> 3317.60s]  yeah i could have just decided to have it quite a nice flake rather than like a little two finger
+[3317.60s -> 3322.72s]  thing that's got a little bit of a third finger but and it was me that cleaned that hold out and
+[3322.72s -> 3329.04s]  actually um you know it was some of it was unholdable the whole problem that probably
+[3329.04s -> 3333.84s]  was unholdable but i tried to break off the fragile bits of the flake that i thought
+[3334.96s -> 3343.04s]  would reasonably break under a climber's stress so for my my personal stances that i i sort of
+[3343.04s -> 3348.56s]  take a brodler out and i'll tap and fiddle with bits of rock to ascertain what's solid
+[3348.56s -> 3354.24s]  and you you don't want to like as a philosophist you try to make it as permanent as possible
+[3354.96s -> 3359.20s]  but for me i tried to do that without glue and just with a reasonable force
+[3359.20s -> 3363.44s]  because my six foot long jimmy bar will change any problem
+[3366.72s -> 3371.52s]  you've got you've got to draw up an arbitrary set of rules and everyone's is slightly different
+[3371.52s -> 3378.24s]  you know like greg um glues things glues holds back on in the lakes and and again i respect why
+[3378.24s -> 3383.12s]  does it so does john fullwood and those two are two of the leading developers in the uk and yeah
+[3383.12s -> 3389.20s]  they've in scotland's gluing holds back on um so i'm probably in a minority actually
+[3389.20s -> 3398.24s]  in the area i live in but northumberland is totally glue free uh however it is stabilized
+[3398.24s -> 3405.04s]  and maybe and i do a lot of stabilization so but to me those are very different things
+[3405.04s -> 3412.32s]  um even though they're they can be viewed as exactly the same if you're because i'm arbitrarily
+[3412.32s -> 3417.76s]  deciding what i don't want to erode and i could selfishly climb the problem
+[3418.88s -> 3422.80s]  in a state of no stabilization knowing that it's going to change
+[3425.28s -> 3429.12s]  and sometimes it's easier not to stabilize a problem and sometimes it's harder
+[3430.88s -> 3437.20s]  i'd say with the super glue i've gotten now it can often make things easier if it's really
+[3437.20s -> 3442.88s]  scriptly and then it makes it harder if the sandstone's absorbent because with when you
+[3442.88s -> 3448.32s]  stabilize a hold it stops absorbency and sandstone is quite good at absorbing sweat
+[3449.20s -> 3456.56s]  and so if i went and stabilized the rail now i think that would get harder because one of the
+[3456.56s -> 3462.24s]  key friction factors on that i think is the sweat absorption as you go through the problem because
+[3462.32s -> 3469.68s]  those holds are fairly dog shit for like being actual holds um so you really need friction
+[3469.68s -> 3474.32s]  and and that's the same you know like aiden you've experienced that on working class and stuff some
+[3474.32s -> 3479.12s]  days it just doesn't feel like there's any friction there does it and some days you'll go
+[3479.12s -> 3484.96s]  back and that'll you'll stick like that to velcro and then it's just the nature of sandstone but a
+[3484.96s -> 3494.80s]  lot of that is it absorbing absorbing sweat as well so yeah it goes both ways but um but yeah so
+[3494.80s -> 3501.92s]  like that's my little session decided on but i'm kind of happy with them there is a slight
+[3501.92s -> 3508.72s]  distinction i guess in that like who you're then doing it for in terms of like whether you stabilize
+[3508.72s -> 3517.60s]  something or glue a hold on um in terms of like uh stabilization is quite like a long-term thing
+[3517.60s -> 3522.56s]  i guess always more for the future climbers who come and do that climb you just define what
+[3522.56s -> 3530.16s]  stabilization is oh it's when like a uh yeah well actually then maybe a classic example i mean you
+[3530.16s -> 3535.44s]  see it in them font a lot when holds aren't stabilized and maybe a foothold isn't stabilized
+[3535.44s -> 3542.32s]  then it's like worn through like the crust of the rock and it's like basically just getting worn away
+[3542.32s -> 3547.92s]  loads um so i guess it's just like wearing down or something dan explain a lot better
+[3550.32s -> 3556.72s]  it started off southern sandstone probably had the edge on it because they needed it the most
+[3557.36s -> 3562.88s]  and then uh yeah it's just really crucial for sedimentary rocks to prevent erosion
+[3562.88s -> 3568.24s]  and it's going to become more and more important as climbing gets to be as those
+[3568.24s -> 3575.52s]  boulder problems at burbage grow to be 200 years old instead of 20 um it's going to be crucial and
+[3575.52s -> 3584.64s]  uh basically uh some rock will stand up to abuse and will polish so you'll see that in areas like
+[3584.64s -> 3591.76s]  font northumberland so kylo is hard enough to polish um but some rocks will erode so they'll
+[3592.72s -> 3598.48s]  when the little bits of sand on your shoes abrade against the rock they'll remove grains
+[3598.48s -> 3604.16s]  instead of polishing grains and then yeah it starts to all fall apart literally and once
+[3604.16s -> 3608.08s]  you get through the patina the rock gets a lot softer which is why you should never climb on
+[3608.08s -> 3616.08s]  wet sedimentary rock because the patina is weakened um and then uh so with trial and error
+[3616.08s -> 3619.92s]  over the years we've found better and better glues and now you can get a really low viscosity
+[3619.92s -> 3627.52s]  super glue that i think is my gold standard for so and that absorbs between the sandstone pores
+[3627.52s -> 3632.88s]  and leaves nearly all its texture intact but as i say you shut down its ability to absorb water
+[3633.60s -> 3641.12s]  in a tiny area but you um you prevent it from eroding by essentially creating a false patina
+[3641.84s -> 3650.64s]  and then that so like uh yeah and it's something that i feel like the bmc should be more up on
+[3650.64s -> 3660.08s]  thankfully i think uh it will get it's becoming more in the in the public sphere and talked about
+[3660.08s -> 3666.08s]  um it still needs a lot of work but again i've got loads of failings with my admin and communication
+[3666.08s -> 3671.76s]  on it and stuff and just tend to chat to other developers that are out there doing it on the
+[3671.76s -> 3681.28s]  quiet stabilizing things but we will probably need a proper stabilization um like like an access
+[3681.28s -> 3687.20s]  officer in the bmc but someone's going to have to start going around keeping problems in in shape
+[3687.20s -> 3692.32s]  otherwise they'll all erode and the way they erode is nearly always on the feet and you just get
+[3692.32s -> 3699.92s]  big hoof marks almost like the the old victorian chipping and where you get steps carved in the
+[3699.92s -> 3705.52s]  rock and and for me that's why i'm really for stabilization is to try and preserve the rock in
+[3705.52s -> 3713.04s]  its natural state but accept that humans will have an eroding factor on it over time and and i'm quite
+[3713.04s -> 3719.36s]  proud to see some of the stuff i did at bowden 10 years ago is still not needed reapplied and
+[3719.44s -> 3724.08s]  stood up to loads of abuse you know like things like captain haddock and that have stopped eroding
+[3724.64s -> 3732.32s]  um but it's that you know that it's not always easy to do it perfectly it takes a bit of teaching
+[3732.32s -> 3738.24s]  um but i think it's a crucial thing i think font actually needs to get better at it so they're
+[3738.24s -> 3744.48s]  losing the battle a bit at the moment and i don't think they're they don't i certainly haven't seen
+[3744.48s -> 3749.52s]  them using that low viscosity superglue there a lot of stuff they use is more like the shellac
+[3749.52s -> 3757.20s]  furniture resins and things like that that go a bit yellow um or like wood hardnery or like epoxy
+[3757.20s -> 3766.40s]  based stuff um and yeah like there's loads like if you do it and you wreck the texture you've also
+[3766.40s -> 3775.60s]  ruined the climb so it's quite a crucial thing but um yeah it's not it's not that crucial so
+[3775.60s -> 3781.84s]  most of northumberland's totally ignored and you don't need it at all and i do it preemptively on
+[3781.84s -> 3787.92s]  some stuff if i think the rock quality is not quite there um and then at craigslag bowden a
+[3787.92s -> 3793.84s]  really popular roadside venues it's it's helped stop the erosion but that was one of the original
+[3793.84s -> 3801.44s]  red flags that crag is something needs to be done here a bit like bright stones um down in
+[3801.44s -> 3807.92s]  lancashire yorkshire border um and yeah in the peak i haven't actually been bouldering at some
+[3807.92s -> 3813.36s]  like plantation or something for years but i've heard the erosion situation's getting worse
+[3815.60s -> 3817.28s]  i mean it stands to reason that it would be
+[3818.24s -> 3824.24s]  yeah more and more traffic um which is something majority of northumberland that hasn't seen so
+[3824.24s -> 3828.56s]  much of the thought thus far zero traffic
+[3834.56s -> 3842.88s]  i wanted to talk about a little bit about climbing alone because you do it a lot i'm kind of
+[3843.44s -> 3850.80s]  of you know no no no but i mean like you don't obviously don't solely do it but
+[3854.56s -> 3862.56s]  but um but uh it is quite um i don't know if it's partly developing is pretty
+[3863.36s -> 3870.72s]  time consuming as well i guess um but uh i i wondered if often by choice or
+[3871.44s -> 3877.36s]  whether you feel it offers something that more like this um collaborative sessions don't um
+[3878.24s -> 3883.36s]  because well yeah i actually do quite like climbing by myself as well but i've definitely found
+[3885.52s -> 3892.08s]  sometimes two minds are better than one as well yeah like i really enjoy solving projects with
+[3892.08s -> 3900.00s]  people yeah um and i think that is better it's just for where i live it's not really a reality
+[3901.68s -> 3905.52s]  or like that trip to scotland we had this year is is annoying because my arm was
+[3906.08s -> 3913.60s]  cack but i've still never been as like psyched or chuffed to see um like a strong team going
+[3913.60s -> 3918.08s]  at projects in the uk because that's literally never happened and in scotland it's certainly
+[3918.08s -> 3924.64s]  never happened yeah that was that was a good good actually i did think about that trip a few times
+[3924.72s -> 3931.44s]  earlier when you talked about uh stand start sandstone 8b's as well because that one in
+[3931.44s -> 3939.28s]  primrose bay which is probably somewhere around there yeah and again like it's that's really cool
+[3939.28s -> 3945.04s]  because it's like tramline compression so you normally you'd be able to heel hook that feature
+[3945.04s -> 3952.16s]  but we can only heel hook at certain points and um i know i got really i think that's great project
+[3952.16s -> 3958.08s]  we nearly went back in um october half term but yeah that's when we went to the county but um
+[3959.28s -> 3964.64s]  that would have yeah i'm keen to get back there but yeah exactly like i don't think
+[3967.12s -> 3970.72s]  i think if you hadn't have tried that that day i don't think i don't know if i would
+[3970.72s -> 3975.52s]  have got on that project really because i would have got sucked in by that hand jamming extension
+[3976.48s -> 3985.12s]  um i strongly vetoed the hand jam project from the get-go yeah a pretty fearful look in your eyes
+[3986.56s -> 3991.20s]  that was the main i was desperately looking for an alternative
+[3991.20s -> 4008.88s]  um yeah i've never lived when i've this part of the uk has never had a lot of climbers so
+[4010.24s -> 4014.64s]  and it's had plenty of good climbers but it hasn't really it's never been like sheffield i used to
+[4014.64s -> 4019.60s]  love being in sheffield and it being two in the afternoon and i could send a text around and find
+[4019.60s -> 4025.52s]  someone to climb with and i almost never climbed alone in sheffield in fact i'd struggle to tell
+[4025.52s -> 4034.48s]  you of something of a first ascent i did on my own i don't think i did any oh yeah yeah that must
+[4034.48s -> 4042.40s]  have happened a lot in the county significant majority probably i did on my own but that's
+[4042.40s -> 4047.76s]  like one of the most i think that was more special and that's like the only time in my life i've been
+[4048.72s -> 4055.92s]  uh like properly proud of beating the rock i'm like yeah when i was on it it's like
+[4056.72s -> 4065.04s]  yeah if you didn't see me coming around before um but like and and a lot of that was i backed off
+[4065.92s -> 4070.40s]  mentally off that problem when i got through the crux of session before because i got scared
+[4071.04s -> 4074.56s]  and because i didn't think i could control it and also having broken my wrist
+[4074.88s -> 4077.84s]  you know like things like that go through your head like i don't want to break another thing
+[4077.84s -> 4083.52s]  again and you definitely could break something out there you break a lot of things at that height
+[4083.52s -> 4088.64s]  um even though it's it's totally safe but you just have weird falls sometimes don't you like
+[4090.08s -> 4096.16s]  a foot pops or you land on your back or um so yeah like a lot that was part of the experience
+[4096.16s -> 4102.32s]  i think i ended up deliberately not texting anyone that day and then my camera nearly failed
+[4102.56s -> 4108.32s]  luckily i did it meant so much to me i took two cameras because i knew my gopro was a bit
+[4108.32s -> 4114.16s]  temperamental and i had my old like uh panasonic but that's why it's got loads of purple lens
+[4114.16s -> 4120.08s]  fire and stuff because a bit knackered but good job but um i thought it was like an effect
+[4120.64s -> 4127.44s]  like that um it feels like somewhere like that just feels like i'm part of the landscape there
+[4127.44s -> 4133.84s]  now and it's weirder when people are at that crowd with me than when i'm there on my own
+[4133.84s -> 4139.76s]  and i get loads of i get a lot out of client i can get a lot out of client i can get a lot out of
+[4139.76s -> 4145.60s]  myself and i can get a lot out of people and i can get a lot out of myself and i can get a lot out of
+[4145.60s -> 4152.56s]  my own and i get loads of i get a lot out of client i can climb with large groups or
+[4153.20s -> 4161.04s]  like i like being in front um and playing all the games and i really enjoyed the day when
+[4161.04s -> 4168.56s]  everybody snubbed me or like they didn't snub me totally but i go and i got cold shouldered off
+[4168.56s -> 4176.32s]  andy goldston and um arjan and arjan's mate what's he called got his name and yeah i went
+[4176.32s -> 4180.96s]  to meet mikaela and you know it's like when a boulder's busy and it's like oh he's he's this
+[4180.96s -> 4191.20s]  tag along that's looking at me old yeah but yeah like it's a fun game to play sometimes
+[4192.72s -> 4197.84s]  what boulder was that that's the story you got to finish oh that was like on the theory did you um
+[4198.56s -> 4203.68s]  but i sort of um i figured the beater out on that but i hadn't warmed up enough then except
+[4203.68s -> 4208.88s]  i flashed that creme brulee that's on c plus by it but then i i figured it out but then
+[4209.52s -> 4214.48s]  they they're obviously really good boulders and they've been trying it a bit but that helped they
+[4214.48s -> 4222.48s]  got that done um but then i sort of sat down and it was about 20 odd degrees so i cooled down a bit
+[4222.48s -> 4228.48s]  and um and then i got it done after them but then uh i was only just getting warmed up so i
+[4228.48s -> 4235.52s]  did like well it was time in the day so i ended up doing serpent de la may the left finish and
+[4235.52s -> 4245.04s]  then i did serpent de la may assist and then i did um du jour de rave that day i did another eight
+[4246.00s -> 4251.60s]  um but yeah like uh the other i think andy did
+[4254.80s -> 4258.96s]  he did something on the serpent de la may face and that that um spanish climber
+[4258.96s -> 4270.56s]  eco was there and he did surf on left finish um but but i i sort of um i i had like a really
+[4270.56s -> 4277.60s]  good day it was just funny how um by the end of the day um the the difference in chat was
+[4278.56s -> 4285.28s]  quite different you know remarkable from when i turned up and it's a shame and client but it's
+[4285.84s -> 4289.04s]  it's like fun and i really enjoyed my session with those guys in the end
+[4289.76s -> 4293.92s]  um because michaela actually left quite early that day because he had to drive on back to
+[4293.92s -> 4297.92s]  italy so he was only at theory du jour so i ended up tagging along with those guys
+[4298.88s -> 4305.12s]  yeah definitely touches on a very real um i guess like maybe like practically speaking it
+[4305.12s -> 4309.92s]  makes sense that um people of a similar level were often climbed together but
+[4309.92s -> 4314.72s]  it's maybe quite an optimistic way of viewing that situation yeah there's definitely a much
+[4314.72s -> 4323.28s]  more cynical view yeah it's like it's funny and i think some of that was like just um
+[4323.28s -> 4327.04s]  scandinavian thing i've climbed with more scandinavians since and they are quite introverted
+[4327.12s -> 4331.84s]  and stuff to begin with and a bit more cagey whereas if it had been americans they're all
+[4331.84s -> 4338.96s]  like yeah come along join in yeah great they leave all the insecurity in the background
+[4341.36s -> 4345.68s]  but um scandals you know just have it there at the forefront let it linger
+[4347.76s -> 4351.20s]  the far north like it's funny meeting the people from the far north like
+[4351.20s -> 4354.40s]  far northern norway or they just make sounds for yes and no like
+[4354.96s -> 4361.44s]  and uh they're still i've been at rube uh i've been at rubus uh longill um
+[4362.24s -> 4366.16s]  i remember flashing rubus and uh there was two norwegians there
+[4367.20s -> 4370.64s]  katie always laughs at how much i try and chat to complete strangers but
+[4371.68s -> 4376.08s]  that i remember them making those like quietly chatting to each other and making those sounds
+[4376.08s -> 4381.84s]  and i was like oh you're from the north of norway and that opened the conversation up but they ended
+[4381.92s -> 4390.24s]  up being really nice um but yeah i do i am like quite sociable when i want to be but yeah it's
+[4390.24s -> 4397.28s]  just the reality of um logistics but i think that probably means i delve down the rabbit hole of my
+[4397.28s -> 4403.52s]  own thoughts and solving boulders and stuff when i go out climbing on my own more um because you
+[4403.52s -> 4407.12s]  just rattle around in your own headspace and go a bit mental
+[4410.96s -> 4426.32s]  yeah yeah i find i require way more motivation to um phases of like climbing by myself i find
+[4426.32s -> 4433.84s]  for like prolonged spells i find like it's more of like a i find it much easier to kind of
+[4436.16s -> 4440.32s]  so i'm more in at the moment i'm more but climbing outside in like a phase where i'm
+[4440.32s -> 4447.12s]  more climbing outside i definitely find myself more excitable or more enthusiastic when i climb
+[4447.12s -> 4453.76s]  with other people i guess um but it's probably a nice uh confirmation to yourself as well i guess
+[4453.76s -> 4459.52s]  of like actually why you're motivated for if you're just happy to go out and just do it
+[4460.08s -> 4468.40s]  without like the gratification of others as well yeah i get loads out of sessions on my own
+[4468.40s -> 4476.88s]  i really don't mind nowadays um it's yeah i'll take both a lot of my best moments this year were
+[4476.88s -> 4483.04s]  completely on my own so like those sessions at thirlstein i did chat to random tourists
+[4483.04s -> 4488.96s]  and there was an outdoor ed group with loads of kids it was hilarious it's a busy session
+[4490.08s -> 4490.96s]  the lakes are seen
+[4494.00s -> 4497.92s]  and they were from the canines and they were amazed that i knew where they're from because
+[4497.92s -> 4502.08s]  they're from near barnard castle so we ended up cracking on about dominic cummings yeah
+[4502.40s -> 4504.16s]  let's go say it's me
+[4506.88s -> 4508.56s]  so can't get away from the guy
+[4511.68s -> 4517.44s]  uh yeah like it's just i i enjoy having this this sort of and the bowed stone you know like
+[4517.44s -> 4522.40s]  you always have a good chat to some random tourists at the bowed stone if if you if you
+[4522.40s -> 4528.00s]  don't kind of shut them down with a one-word reply but in frustration to the comment about
+[4528.00s -> 4534.80s]  there being a ladder to get to the top yeah i started trying to talk about the ladder now
+[4534.80s -> 4540.80s]  and how much of an eyesore it is and how it it's industrial theme really doesn't fit in the
+[4540.80s -> 4545.76s]  setting of the lake district but yeah the conversations i need to find like an architect
+[4545.76s -> 4552.40s]  that's uh and can appreciate how much of an eyesore that there is i liked the um i liked the uh
+[4553.28s -> 4559.04s]  the um the older rotting ladder and a bit a lot more character yeah exactly it had loads of
+[4559.04s -> 4565.92s]  characters in it like it fitted so well and yet we've now got a completely metal ladder with
+[4565.92s -> 4574.56s]  non-slip uh punched holes in the metal and uh and like wibbly wobbly contemporary banister
+[4575.28s -> 4583.76s]  and it's in completely surrounded by stone slate moss and it just couldn't i saw it's like well
+[4583.76s -> 4590.64s]  done national trust for completely mullering all cultural heritage of that place totally
+[4590.64s -> 4597.28s]  disregarding climbing and except for not putting your really sharp bits of holes right at the back
+[4597.28s -> 4602.48s]  of the runs because that was the only consultancy they seemed to take away from i would like to climb
+[4602.48s -> 4608.48s]  up the underside um they could have at least put an eyeball in for everyone's crack fingerboard
+[4610.80s -> 4617.36s]  yeah there is yeah there is a little there a little hoop of metal there yeah yeah that does
+[4617.36s -> 4624.48s]  work i think that was to lift it in place those um oh right yeah to help maneuver it
+[4625.36s -> 4632.56s]  but yeah it's it's like what a nice off and uh and then like it could have been so much better
+[4632.56s -> 4639.76s]  and more sympathetic to you yeah but who what would climb us now we're just a bunch of great chasing
+[4642.24s -> 4648.72s]  yeah yeah to be fair it's about as good as you know no there's good stuff there but i feel like
+[4648.72s -> 4654.16s]  we've um we've not really gone over all that many of the topics we wanted to talk about aiden but
+[4654.96s -> 4660.40s]  we're really really running out of time yeah yeah i don't feel like don't feel like we can
+[4660.40s -> 4666.96s]  really take up much more of dan's time and but we went we went through two two out of six of our
+[4666.96s -> 4674.24s]  themes to talk about if you don't if you don't mind dan if we could just do a few quick questions
+[4674.24s -> 4681.76s]  for our patreons is all of the recent talk about individual finger sling testing a wind up to get
+[4681.76s -> 4688.96s]  lots of ukb folk injured i had some feedback about this
+[4691.68s -> 4696.00s]  i think a lot of people got very excited but it's almost like being invited to a party
+[4696.00s -> 4701.04s]  with no host and everyone's walked in the room expecting a party and it's like is there a party
+[4701.04s -> 4708.00s]  here that's a good analogy that's kind of how it feels like with that if you don't really have a
+[4708.00s -> 4716.40s]  purpose or um it's it's got to be incorporated into what you want to get better at and what
+[4716.40s -> 4721.44s]  you're analyzing there's got to be a reason why you're analyzing it so it's like a fault finding
+[4721.44s -> 4729.52s]  mission and it's not really a training tool on its own i i would be a very dangerous
+[4731.04s -> 4736.48s]  yeah potentially explosive one which i think i think was communicated quite well or i listened
+[4736.48s -> 4744.00s]  to i've seen people reacting to that on the back of the um nugget podcast which i think both
+[4744.00s -> 4749.60s]  both me and dan did in relatively quick succession and i feel like it was caveat we did
+[4749.60s -> 4756.16s]  discuss this whole like idea of sling testing but it was always under the premise it was testing i
+[4756.16s -> 4761.36s]  guess i actually listened to dan's version of the nugget one and that was why i was pretty keen to
+[4761.36s -> 4767.60s]  not bring up high angle crimps for this whole conversation i felt is pretty well covered in
+[4767.60s -> 4776.16s]  about three hours of nugget chat yeah yeah the nuances of training people love training chat
+[4776.16s -> 4782.64s]  don't they it's like um they'll they'll pour over everything it's the the nectar everyone's
+[4782.64s -> 4791.60s]  going for but it's funny because i think um yeah it's it's like aiden people will watch
+[4791.60s -> 4798.24s]  aiden clowney and think oh that's an amazing style on rock or whatever or that but actually
+[4798.24s -> 4803.76s]  there's there's a lot going on and this this is one thing i've been pondering lately actually
+[4803.76s -> 4810.80s]  because for myself i've actually been training a lot of those traits um but because i'm
+[4812.64s -> 4818.96s]  it's it's the case so like um i think neural networks are going to become way more
+[4818.96s -> 4824.64s]  chatted about in training and stuff and because whenever you learn a sport you basically
+[4825.52s -> 4831.20s]  no one you can get taught and you can get coached but no one actually forms in neural networks and
+[4831.20s -> 4836.64s]  everybody develops these different roads which determine what muscles get activated
+[4837.36s -> 4842.72s]  you know it's like the the nerves ping a bunch of traffic lights on the way or whatever and
+[4842.72s -> 4847.52s]  activate the muscles as we go and and we've all got these slightly different roads in our bodies
+[4847.52s -> 4856.00s]  of these neural networks and and how that fires off in our brain and um i think you know you can
+[4856.00s -> 4863.36s]  reduce some elements so the finger element that aiden has is um is something that everybody can
+[4863.36s -> 4869.68s]  see it's very it's very obvious um but all the other parts of the neural network are quite
+[4869.68s -> 4877.28s]  abstract and i feel like this is my debate for the year and actually i've kind of decided to go but
+[4877.28s -> 4883.36s]  i think i've focused so much more on some of those reductive aspects i've learned loads about my own
+[4883.36s -> 4889.28s]  body but actually i think i've lost some of my board strength last year and my natural ability
+[4889.28s -> 4895.28s]  to move subconsciously because i'm quite good at subconscious movement so i'm going to try and
+[4895.28s -> 4903.20s]  incorporate the aspects that i would like but basically just hope they get put in whereas
+[4903.20s -> 4907.20s]  what might actually happen and what i don't want to happen is just to go back to my old neural
+[4907.20s -> 4915.60s]  network of doing moves badly that suit those skill sets better and it's funny because for
+[4915.60s -> 4919.20s]  something like burden you probably have that challenge as well aiden don't you and that you've
+[4919.20s -> 4925.20s]  got to try and rewire yourself a little bit uh there's like a relationship between your attributes
+[4925.20s -> 4931.36s]  and like the did you say subconscious move or like intuitive movement um there's a relationship
+[4931.36s -> 4936.56s]  between them which is slightly uh it's hard to understand because it's hard to understand how
+[4936.56s -> 4942.24s]  much the movement have played into like development of physical actors the same as chicken and the egg
+[4942.24s -> 4949.92s]  kind of thing um and then obviously that like suppose like that reductive training uh changes
+[4949.92s -> 4956.80s]  your attributes uh it's much more complex and how that then applies to movement patterns and the
+[4956.80s -> 4961.60s]  yeah the neurological stuff um which is definitely something i've thought a lot about with you watch
+[4961.60s -> 4966.64s]  clarence kennedy stuff at all do you know do you know who he is oh no i know actually you sam do
+[4966.64s -> 4975.28s]  you know who he is no no he's a he's a vegan weightlifter so goodness is junk for dave
+[4977.04s -> 4983.68s]  he's one of the best weightlifters on the planet um phenomenal weightlifter but he stresses so much
+[4983.68s -> 4990.16s]  technique and he talks about neural networks quite a bit and stuff and how um if people end
+[4990.16s -> 4995.52s]  up getting coached by him he would basically spend ages giving them a pipe and getting them to learn
+[4995.52s -> 5002.48s]  clean and jerk probably and this is a guy that can like i think he can clean and jerk 190 or
+[5002.48s -> 5010.24s]  something like that and he's not actually that big uh he's an irish guy he trains a lot in glasgow
+[5010.24s -> 5017.04s]  um but yeah he's good to follow um but yeah like because they do something that's so reductive and
+[5017.04s -> 5024.24s]  yet it's so complex so the way the bar bounces as it hits your chest and where the exact position
+[5024.24s -> 5029.12s]  your body's in and you know as climbers we can understand complex movements and other sport quite
+[5029.12s -> 5037.84s]  well i think if you if you tuned into it and um yeah and i just love this point about how loads
+[5037.84s -> 5044.16s]  people learn to lift heavy but then they plateau and then um that then it takes forever or they
+[5044.16s -> 5049.44s]  might never get better and then they give up and then i feel like that feeds so well into how a lot
+[5049.44s -> 5058.16s]  of people will be neural network programmed in climbing and actually you know like i feel like
+[5058.16s -> 5066.48s]  aiden's got one avenue to um getting better in a certain style but you need all these parts of
+[5066.48s -> 5075.68s]  your body to play ball and fire in a certain way and i i don't know whether like this is the big
+[5075.68s -> 5082.48s]  question for me is how much is new is that reprogrammable how much is that memory like
+[5083.60s -> 5088.88s]  a rewritable computer memory and how much is permanently written on your first like when you
+[5088.88s -> 5096.96s]  learn to walk we all walk slightly differently but we all you know and as long as you've managed
+[5096.96s -> 5102.96s]  to learn to walk you pretty much accept oh yeah that's walking crack on but some people barely
+[5102.96s -> 5108.56s]  activate their cords or their glutes and you know other people might purely activate their
+[5108.56s -> 5116.00s]  cords and then that leads to imbalances and that leads to restrictions and and yeah so the i guess
+[5116.72s -> 5125.04s]  to cut the waffle short i uh this year i want to try and go back on the board but i'll still do
+[5125.04s -> 5130.16s]  some of the reductive exercises i'm doing that fill my really beginner areas but i'm just going
+[5130.16s -> 5134.88s]  to cross my fingers and hope i can pull them in on the board and i'm probably going to do that
+[5134.88s -> 5140.48s]  through the warm-ups as well yeah more on the warm-ups but when i get into my harder climbing
+[5140.48s -> 5145.44s]  just like turn my brain off and start climbing properly again because i think i've done too much
+[5147.12s -> 5150.80s]  what would be great would be to get you back on at the end of the year and then you can
+[5151.76s -> 5155.36s]  give us your findings it's like smoking herbs
+[5157.52s -> 5162.40s]  i wonder if that like neural plasticity will diminish as you get older like will it be
+[5162.40s -> 5167.60s]  harder to change those patterns as you get older than yeah than if you're you're young
+[5168.16s -> 5171.28s]  because we've spoken about that as well briefly haven't we aiden about like
+[5171.28s -> 5175.92s]  whether it's worth trying to change the way people hold things or whether it's better to
+[5175.92s -> 5179.92s]  just be like that's what you're good at just stick with that and get as good as you can
+[5180.80s -> 5187.04s]  yeah yeah i sort of feel like i tapped out on rock locally that way so for me it's been
+[5187.04s -> 5192.88s]  such a breath of fresh air um having aiden about and climbing with him just to um
+[5193.44s -> 5201.28s]  to sort of get i really was getting a bit a bit sick of bouldering like 2019 i was
+[5202.08s -> 5206.48s]  like before the pandemic i think the pandemic really gave outdoor bouldering in this country
+[5206.48s -> 5212.16s]  a bit more of a kick up the ass and a breath of fresh air from the younger ones and until
+[5212.16s -> 5220.24s]  then i feel like it was you know it was dwindling and i was um i i've sort of tapped a lot of my
+[5220.24s -> 5225.92s]  strengths and i've never really trained my strengths but like in a way that aiden does
+[5225.92s -> 5233.04s]  in in like uh really going after them i i have done it a bit with like maybe always
+[5233.04s -> 5239.12s]  making sure i do drags in a session um or something about fingerboarding but i don't
+[5239.12s -> 5246.16s]  think i've ever applied such good and methodical thought to it but i also think actually
+[5247.68s -> 5254.80s]  yeah i struggle to think of a project where i like fell off um fell off because the movement
+[5254.80s -> 5258.72s]  was too weird or abstract or i don't feel like i figured it out enough you know like i
+[5258.80s -> 5263.92s]  i do feel like a lot of my shortcomings have been quite obvious now in hindsight
+[5264.56s -> 5271.20s]  um so for me that's like a second wind really exciting um but yeah i don't know
+[5271.20s -> 5275.92s]  whether it's doable for me but it's you know i'm happy to try and fail
+[5278.40s -> 5282.80s]  yeah um yeah that's a good message so many things i could talk about within
+[5282.80s -> 5291.04s]  within that but yeah yeah i do think um yeah i do think it could definitely oh yeah i don't
+[5291.04s -> 5294.40s]  don't know if we did have any more questions i didn't put i think i think we've i think we've
+[5294.40s -> 5302.08s]  run out of time even if we do to be honest you can't really ask for any more yeah yeah yeah
+[5302.08s -> 5307.60s]  yeah no that's fair but um yeah i i actually find this like neuroplasticity movement pattern stuff
+[5308.56s -> 5312.64s]  fascinating within climbing and i think i think you're right i think like
+[5312.64s -> 5320.08s]  it will definitely play much more of a role yeah it's been in climbing for a while maybe
+[5320.08s -> 5325.92s]  and the japanese team has sort of excelled at mastering that but i feel like in outdoor
+[5325.92s -> 5332.96s]  climbing we've been behind on that even though we've been ahead way ahead on detail yeah we've
+[5332.96s -> 5338.72s]  been kind of behind with connecting the whole chain and making making it all work
+[5340.16s -> 5345.28s]  and yeah i think that's where there's a lot of big gains to be had for the youth coming through
+[5346.72s -> 5353.92s]  yeah yeah yeah i actually um well yeah i listened to a really good podcast
+[5354.00s -> 5364.72s]  by that huberman lab guy on neuroplasticity um which i kind of feel is quite easy to construct
+[5364.72s -> 5369.68s]  an analogy of how that applied to climbing um but i'll send that i'll send that through to
+[5369.68s -> 5374.40s]  you give it a listen have i got have i got a chance as well yeah yeah yeah you've got a chance
+[5375.92s -> 5380.72s]  no it's uh it's about more the idea of like plasticity being catalyzed through
+[5381.52s -> 5385.04s]  uh failure and mistake as opposed to um
+[5386.56s -> 5392.72s]  uh success um but yeah you could go down the rabbit hole from that it's worth a listen
+[5393.36s -> 5398.48s]  yeah i'm keen to look into it this year i'll um i've been i've was like i'm pretty happy with
+[5398.48s -> 5405.68s]  like my finger strength gains for um on tiny crimps like the way i view them and the way i
+[5405.68s -> 5410.24s]  approach them now it's totally different but i do feel like a lot of the other parts of me are
+[5410.24s -> 5418.32s]  lacking i did think i was talking about like the whole chain like complexity of movement as well
+[5418.32s -> 5422.08s]  i think it was if it's interesting because you mentioned it earlier like when people
+[5422.08s -> 5430.32s]  maybe would look at the way that i climb would be like oh got strong fingers but uh whenever i have
+[5430.32s -> 5434.48s]  whenever i've had all the like the last board sessions i've had review the last handful of
+[5434.48s -> 5440.40s]  board sessions nearly all of our conversations have been about my legs and i'm kind of like
+[5440.40s -> 5444.80s]  it's kind of like i barely even talk about fingers to be honest which i think is quite
+[5444.80s -> 5449.60s]  interesting because people might maybe like there's like things which maybe aren't always
+[5451.60s -> 5459.92s]  i still think like yeah so people don't understand how much weight gets taken off and gets distributed
+[5459.92s -> 5467.52s]  and applied and stuff it's probably for the better for now yeah but yeah i and it was cool
+[5467.52s -> 5475.20s]  when you came on my board the other day because i am right because a lot of my a lot of the problems
+[5475.20s -> 5482.32s]  i think um i like say even with uh stuff being a bit more barefoot and you being able to really
+[5482.32s -> 5488.08s]  weight the feet because the folds are a bit better you you could just like rinse that board um
+[5488.80s -> 5496.96s]  but then it's like yeah it's just like amazing to see how far and how easy that style can be like
+[5496.96s -> 5505.44s]  for me that's way more inspiring than um yeah if if like i guess we were doing a different
+[5505.44s -> 5512.40s]  style of climbing because for me that's the style of climbing i'd love to uh like pursue more on in
+[5512.88s -> 5518.48s]  on boards and stuff at the moment and try and resonate with a bit more whereas i don't feel
+[5518.48s -> 5523.20s]  like there's anything out there for me in a minute with bigger moves wider moves pinch
+[5523.20s -> 5529.60s]  moves stuff like that or even big moves between flat edges stuff that's not really on my agenda
+[5530.56s -> 5538.40s]  as much so it's like yeah it was really cool to see for reference dan's board is um
+[5539.36s -> 5545.44s]  uh you climb it without climbing shoes so it becomes very complex body tension wow in that
+[5545.44s -> 5551.68s]  like your feet end up pulling on holds in like all forms of 3d angles which i actually do think
+[5551.68s -> 5559.28s]  applies quite well to climbing outside when you use your feet in quite 3d ways um but yeah it's
+[5559.28s -> 5565.28s]  really good for weight you have to get the weight through the feet on it um and it's not very fun
+[5565.28s -> 5570.80s]  jumping at stuff either because you're like kicking the board with bare feet and
+[5571.44s -> 5577.84s]  oh yeah yeah the old like toe poke and punt that you do on a lot of steep boards uh yeah it just
+[5577.84s -> 5584.80s]  doesn't work so but there's loads of drawbacks to it as well i think um just so i've been on the
+[5584.80s -> 5589.76s]  board on in even rock a bit more with my shoes on yeah good thing you've got another two boards
+[5589.76s -> 5604.64s]  just down the road as well the whole plethora yeah 2023 more than 10 sessions
+[5607.04s -> 5612.56s]  i did like two sessions i did double i did i trained yesterday and the day before
+[5613.52s -> 5616.00s]  wow i've only trained two days on these
+[5617.12s -> 5626.48s]  wow that's big sam yeah yeah i i i remember saying to aiden in one of the podcasts at some
+[5626.48s -> 5631.76s]  point i remember you saying uh i'm pretty sure it was you said that to climb hard you need to
+[5631.76s -> 5639.04s]  rest hard i think you wrote that in an article once upon a time about 10 years ago most climbers
+[5639.04s -> 5646.48s]  are really over trained yeah i agree i agree yes sam talks about this so much yeah i think they i
+[5646.48s -> 5651.12s]  think most climbers overdo it yeah and the strength peaks you'd see if they actually
+[5651.12s -> 5656.08s]  approached it like proper weightlifters or something you know like or like if you really
+[5656.08s -> 5663.28s]  want to peak you have five days off and i i almost never have five days off but i will have three
+[5663.28s -> 5669.60s]  days off or something like that if i if i want to climb really well and it's almost like i go up a
+[5669.60s -> 5674.96s]  grade if i have three days off as long as i've been kind of training the right way beforehand
+[5674.96s -> 5681.36s]  and leading into it but yeah like with sports with a good science background where it's a lot
+[5681.36s -> 5688.80s]  of physical effort um yeah i i doubt you would see them doing the volume climbers do but we just
+[5689.20s -> 5694.96s]  climbing's the only one isn't it even even like technique sports like like football for example
+[5694.96s -> 5700.72s]  they don't train like three days in a row it just don't do it like we're the like climbing's like
+[5700.72s -> 5706.64s]  the only sport i know of that will the appropriate training that you get prescribed just to do more
+[5706.64s -> 5711.52s]  or less the same thing working the same muscle groups like five days at least out of the week
+[5712.08s -> 5716.56s]  no one else is doing that and you you do it better than most actually trying to break
+[5716.56s -> 5719.60s]  things apart a bit more but yeah i had leg day today
+[5723.60s -> 5727.12s]  yeah no one ever asks you about your legs
+[5730.48s -> 5734.88s]  how do i get strong fingers like aiden they say no no one's looking at your glutes not as much
+[5734.88s -> 5744.64s]  as you'd like anyway very good um yeah no death me is a thing but i definitely remember that when
+[5744.64s -> 5750.16s]  i was because when i was doing my own training um and you when dan coached me when i was younger
+[5750.72s -> 5758.16s]  um i don't know if it's a it's a term we always used for like crossover of like uh how much
+[5758.16s -> 5764.08s]  crossover you get between sessions of like oh you have a fingerboard session but if you're like
+[5764.08s -> 5769.04s]  having a board session late or like climbing later you're obviously just hammering the same thing
+[5770.00s -> 5775.84s]  like multiple times a day or like multiple days in a row and i think uh i think you
+[5776.88s -> 5781.44s]  uh we kind of you kind of alluded to it earlier on this conversation as well in new
+[5782.16s -> 5788.16s]  neuromuscular thing about like the inspiration you can take from bodybuilders and they're really
+[5788.16s -> 5793.52s]  good at like compartmental or like powerlifters compartmentalizing their training right like
+[5793.52s -> 5798.64s]  they might only have like well bodybuilders are like the world exports experts actually your first
+[5798.64s -> 5806.24s]  was because they will specifically target target a single muscle to do to like develop that muscle
+[5806.24s -> 5810.80s]  if they were lacking in a competition at like a bit of their tricep they'll hit that bit of the
+[5810.80s -> 5819.04s]  tricep yeah it's like detail like no yeah like it's like like strength training is more about
+[5819.04s -> 5825.60s]  balance and resting but bodybuilders know exactly what muscle group to to hit to get
+[5826.16s -> 5830.48s]  the development they want that and like an amazing roid cycle and
+[5833.60s -> 5836.32s]  it brings it all out for everyone to look at so it's quite useful
+[5837.92s -> 5842.64s]  yeah a little anatomy session yeah no i think and ollie's obviously done a really good job
+[5843.52s -> 5846.48s]  and actually being qualified to do it properly and
+[5847.52s -> 5852.00s]  build it on from that but because i was always just like a guessing and i never write my own
+[5852.00s -> 5859.52s]  training down and or anything so i i like i know the vague concepts and i just like bounce around
+[5859.52s -> 5866.96s]  in there but i think in order to do really well nowadays i think you've got to get it all planned
+[5867.60s -> 5873.92s]  done well really i think yeah there's a balance to be had i think um i think that approach really
+[5873.92s -> 5881.68s]  worked for that like more general approach or the language used in um uh the nugget podcast of that
+[5883.44s -> 5887.92s]  rifle or blunders and um and kind of like i think there's a bit of a balance there's
+[5887.92s -> 5894.72s]  obviously a time efficiency to being like ultra specific and like really nuanced uh
+[5894.72s -> 5899.68s]  and i think the optimalism like there's an optimal which like is probably really time
+[5899.68s -> 5906.40s]  consuming which like kind of has the more general uh focus as well as a detail required for the
+[5906.40s -> 5912.56s]  specific things um i guess yeah i'll try and leave on like maybe a good point there i'll
+[5912.56s -> 5918.56s]  try and sound like someone intelligent for a second um i think people shouldn't beat themselves
+[5918.56s -> 5925.92s]  up if um you know like a lot of people do waste time like blunderbussing training and stuff and
+[5926.72s -> 5931.76s]  if you can improve it it's great but i think most people are like the best thing is to try and be
+[5931.76s -> 5937.76s]  happy in a sport and then not um because we've all got such different lives such different time
+[5937.76s -> 5945.28s]  frames and it's it's it's what you what you get out of sport is ultimately hopefully like some
+[5945.28s -> 5950.48s]  form of happiness and fun and if that's not there um then that's the first thing that needs
+[5950.48s -> 5957.60s]  to change but i think the worst thing to do is to say like try and lament missed opportunities
+[5957.60s -> 5962.32s]  and always be looking at what could have been done i think it's it's much more healthy in sport
+[5962.32s -> 5967.76s]  to just look at the time you have available and then just try and use it in a way that combines
+[5967.76s -> 5972.80s]  the most fun with what you really want to get out of it and then if people can do that then
+[5973.36s -> 5979.12s]  i would really encourage that to be the way people pursue sport and and try not to be too
+[5979.12s -> 5988.08s]  target-based try to be more um uh yeah like intrinsic happiness based but that can still
+[5988.08s -> 5995.44s]  be from a self-improvement perspective uh it's just it is so much more resilient and life so
+[5995.44s -> 6004.64s]  much more fun if um i feel like if it comes from that place rather than uh from like chasing
+[6004.64s -> 6009.20s]  something which you decide is going to make you happy and then i see that so often in climbing
+[6009.20s -> 6016.08s]  where someone's decided or maybe milk it like i said at the start to go for you um cataphoric
+[6016.08s -> 6025.84s]  reference but yeah like yeah if um if milk it was a letdown then maybe that's a misplaced
+[6026.80s -> 6031.20s]  target but then it was there was there'd be loads of positives from that so it is a really
+[6031.20s -> 6037.28s]  historic problem it's cool to appreciate and i like for me i try and get a sense of what
+[6037.28s -> 6043.36s]  it would be like for say malc to have climbed that when he was 18 or 19 or something and then
+[6043.52s -> 6048.80s]  uh you know if you if you bring all that into it it can add depth and then that can remove the
+[6049.36s -> 6057.68s]  dissatisfaction from the drop-off um but then if you try and get more from it like oh this isn't
+[6057.68s -> 6062.96s]  really a proper 8b or something because it's on wood or i think that's where and i feel like
+[6062.96s -> 6069.60s]  those voices can really kill be a bit of a kill joy and and also yeah and as soon as you
+[6069.60s -> 6075.84s]  add social media and gosh it's like that's mindful yeah no wonder we've got like a mental
+[6075.84s -> 6083.60s]  health crisis on there i like the i'll flip that it's a waffling idiot now um the amount of botox
+[6083.60s -> 6090.00s]  and lip filler i'm seeing now like because i'm i've got young kids and um i hang around a lot
+[6090.00s -> 6095.84s]  of kids parties and stuff and it's like i went to london the other day to watch the frozen musicals
+[6095.84s -> 6102.40s]  but standing outside i was gobsmacked at the amount of beige and lip filler and i'm like
+[6103.12s -> 6107.84s]  it's what i'm missing something on social media here for like this to have happened and
+[6108.80s -> 6115.60s]  and and just not like it was such a shock to see i was like wow there's a lot of warped
+[6115.60s -> 6120.40s]  self-perception you know needing to look a certain way going on here and
+[6120.48s -> 6128.72s]  and like it's to me that goes beyond fashion when you're starting to put needles like makeup's one
+[6128.72s -> 6139.36s]  thing i think but some of those like like yeah it's uh it's a it's definitely a self-perception
+[6139.36s -> 6147.20s]  warp end and the the filters tricking things to because there's a lot of angles that botox
+[6147.20s -> 6153.60s]  really doesn't do anything yeah totally i was uh i was shocked when aiden got his lips done but
+[6153.60s -> 6161.68s]  there you go yeah did you not know there's actually there was a funny trend going on
+[6161.68s -> 6167.28s]  social media of people putting like celebrities from before they were famous like a picture where
+[6167.28s -> 6172.72s]  they haven't had any of their plastic surgery and and now and the caption was always remember
+[6172.72s -> 6179.60s]  you're not ugly you're just poor which i think so it's quite funny but um circling back finally to
+[6179.60s -> 6187.04s]  the to the milky extravaganza what i what i kind of meant was like in that instance i enjoyed the
+[6187.04s -> 6193.92s]  process i've enjoyed all my sessions down at the school room so much more than sending boulders
+[6193.92s -> 6198.48s]  i've just absolutely like it's been so much fun climbing with people because as you were saying
+[6198.48s -> 6203.60s]  like climbing is supposed to be this tool we use to enrich our lives and to have much more fun
+[6204.40s -> 6209.04s]  and it's so easy people you do see people getting lost in that all the time and getting angry and
+[6209.76s -> 6214.48s]  like sorrowful that they haven't achieved what they've achieved and you think so climbing as
+[6214.48s -> 6219.92s]  a crutch to have a better life has failed you then hasn't it because it's making you sad all the time
+[6221.28s -> 6227.36s]  and and yeah and it's causing stress and anxiety and stuff and i and i do feel like yeah well i
+[6227.36s -> 6231.60s]  i mean that sounds like yeah the perfect perspective to come across why were you
+[6231.60s -> 6234.24s]  whinging there oh i wasn't i wasn't really
+[6237.20s -> 6240.72s]  we had uh we were just saying that it's not quite the same as doing rock climbs
+[6242.00s -> 6249.60s]  yeah yeah yeah those days yeah so like you can only ever get to an eight out of ten can't you on
+[6249.60s -> 6256.32s]  a great board session i would imagine some people would expect to differ but if you took that into
+[6256.32s -> 6262.80s]  a blue sky day and you've got you're all on your perfect problem and yeah like the birds are
+[6262.80s -> 6269.92s]  singing and um yeah like it's you have like a night you can have a sit about after or go to the
+[6269.92s -> 6276.16s]  pub and yeah like for me like there's your 10 out of 10 and eight's probably quite generous in the
+[6276.16s -> 6288.48s]  scale of things hey yeah yeah i mean i do love a board session yeah listen very pro board
+[6291.44s -> 6297.04s]  it's a good surrogate we're lucky to have a port which has a really good surrogate i think climbing
+[6297.04s -> 6302.00s]  is the only sport and it's certainly the best sport in the world i think at the minute for
+[6302.88s -> 6308.08s]  a the fake surrogate is arguably going to overtake the real one someday and
+[6310.80s -> 6317.20s]  popularity yeah and like to discover new movement and stuff using the artificial one
+[6317.20s -> 6323.60s]  is something incredible yeah surfers don't have that no and that like they've got a fixed wave
+[6323.60s -> 6328.64s]  all they can do is pump a bit more water at it and and then they've got to spend like another
+[6328.64s -> 6333.68s]  couple of million quid to have a slightly different wave if and you know like there's
+[6333.68s -> 6337.28s]  there's a reliability in it but there's no way you've got the versatility and
+[6338.56s -> 6343.12s]  yeah all those different moods and feelings from say a steep board session to
+[6343.84s -> 6352.00s]  fiddling about on a slab indoors and figuring that out yes it's i i really do um i try and
+[6352.00s -> 6358.00s]  question why you know why am i climbing a lot of the time just to make sure i feel like i'm
+[6358.00s -> 6364.24s]  into something which is worthwhile because there are lots of other things i i could do with my time
+[6364.24s -> 6370.08s]  like um and you had like okay you got me a metal detector for my birthday and like i am dead
+[6371.84s -> 6380.16s]  no way i've just started watching the detect twists oh yeah that's partly why that's just
+[6380.16s -> 6385.84s]  a program we could cycle down your training and then we'll get out
+[6387.92s -> 6391.12s]  yeah yeah i'll go back in the lakes i like it the quiet life
+[6393.28s -> 6397.12s]  well you'll either you'll either have like finessed your neuromuscular balance
+[6397.12s -> 6400.96s]  or you'll have sacked off climbing and you'll have a load of little trinkets
+[6401.52s -> 6415.52s]  yeah probably in a good place for it to be honest on my birthday the day i got it i went
+[6415.52s -> 6420.88s]  down to armistoid to scan the beach um because my dad lost his signet ring there when i was little
+[6420.88s -> 6426.72s]  it was like a pretty long shot that was about 20 years ago um but you know there's a chance
+[6426.72s -> 6433.36s]  things get buried um so we were sweeping the beach and uh um i found it found some
+[6433.36s -> 6439.68s]  coins and stuff it's pretty good day uh and then out came a viking pendant from the sand
+[6439.68s -> 6447.68s]  and it was a thors hammer viking pendant no that's incredible yeah but i had a half second
+[6447.68s -> 6453.52s]  i've been like holy shit and then i looked and i was like now there's like a metal press scene there
+[6453.60s -> 6457.92s]  and this is a bit too new and shiny and so i google lensed it on my phone
+[6458.56s -> 6462.16s]  and uh yeah you can like buy them from i don't know argos or whatever
+[6466.08s -> 6468.32s]  really like incredible
+[6475.84s -> 6478.00s]  there we go we can do a podcast on metal detecting
+[6478.16s -> 6487.44s]  my dad does it does he yeah he's got a lovely little chest which is full of uh rusty crap
+[6487.44s -> 6493.04s]  which he's found but he's also found a few good things he found that he found a gold sovereign
+[6493.04s -> 6498.24s]  which he was really happy with oh that's well good yeah yeah he's very happy with that yeah
+[6498.80s -> 6502.80s]  i mean that sounds yeah that'll be the dream i'd be happy with any gold but
+[6504.56s -> 6506.48s]  yeah yeah yeah
+[6511.04s -> 6515.92s]  yeah we went in some caves the other day with the girls uh in weatherall old monk's
+[6515.92s -> 6522.24s]  caves where they used to hide in um it's probably been quite before um and yeah we
+[6522.24s -> 6528.48s]  just turned up loads of wrinkles and bits of condom wrapper oh shit yeah i forgot
+[6531.04s -> 6533.20s]  those blokes must have been really getting at it
+[6538.00s -> 6542.48s]  things to do with you children on a rainy day
+[6542.48s -> 6548.72s]  oh
+[6561.52s -> 6567.52s]  yeah yeah no i appreciate that dan and yeah i'll speak speak to you soon and yeah thanks very much
+[6567.52s -> 6573.76s]  for coming on yeah nice to have a good chat son yeah lovely to meet you
+[6577.92s -> 6584.16s]  sweet well uh yeah i'll speak to you soon yeah speak soon thanks
