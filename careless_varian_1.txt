@@ -370,6 +370,8 @@ Detected language 'en' with probability 0.984087
 [2331.44s -> 2337.44s]  been been really exciting and yeah good uh good scenes down there good to see
 [2341.60s -> 2344.88s]  one of the things i really wanted to ask you about because it's one of my real
 [2345.68s -> 2349.44s]  interests um why don't you have an instagram den
+
+
 [2353.68s -> 2359.44s]  i've got so many answers to that and we've got time it's never it it doesn't um
 [2362.16s -> 2372.24s]  yeah i it doesn't really it's never appealed and it's never fitted with i've been very lucky and
 [2372.24s -> 2379.44s]  i've never really it's it's a tool entirely designed for um going up a ladder and promoting
@@ -385,6 +387,8 @@ Detected language 'en' with probability 0.984087
 [2442.08s -> 2449.20s]  i'm sorry but um you don't have that kind of because most of us are kind of a little bit
 [2450.48s -> 2456.24s]  vain in that sense that when we do something impressive we really love to say that we've
 [2456.24s -> 2460.24s]  done it so everyone gives us a pat on the head but you don't seem to you don't seem to need that
+
+
 [2461.28s -> 2467.20s]  uh i've i think i've always been so i'm a bunch i'm probably a bunch of contradictions
 [2467.20s -> 2474.56s]  rolled into a person most people are but people are yeah i've uh i've always been with my climbing
 [2474.56s -> 2479.20s]  i've i'm hugely motivated but then you know obviously i'm lazy at booking holidays but
@@ -409,7 +413,10 @@ Detected language 'en' with probability 0.984087
 [2606.80s -> 2612.64s]  problems there's not that much subtlety is there aiden there's yeah there's interesting subtleties
 [2612.64s -> 2618.40s]  but you're really good at breaking those down and you sort of you know i'm aware of the things i need
 [2618.40s -> 2624.88s]  to do for them so um a lot of the vagaries are um solved and then for me it's it's quite
-[2624.88s -> 2633.44s]  strength-based so yeah i think that's a big difference between well i mean like geographically
+[2624.88s -> 2633.44s]  strength-based so yeah 
+
+
+i think that's a big difference between well i mean like geographically
 [2633.44s -> 2639.44s]  the lakes and northumberland or keala sandstone are actually really close the real obvious difference
 [2639.44s -> 2646.00s]  between them in terms of approach when you're discussing just briefly in earlier in that um
 [2646.64s -> 2654.00s]  conversation about like training only ever really training for something um i mean i've seen some of
@@ -421,7 +428,10 @@ Detected language 'en' with probability 0.984087
 [2681.92s -> 2689.52s]  the point where almost like you you can do the climbs quicker probably came from like maybe like
 [2689.68s -> 2696.08s]  the constant development attitude that i had from competitions but i think that definitely like
 [2696.08s -> 2702.88s]  favors small holds where it quite quickly gets annoying when you're functioning on sharp small
-[2702.88s -> 2711.36s]  holds um you kind of might want to uh you want to do them relatively quickly it's such a good
+[2702.88s -> 2711.36s]  holds um you kind of might want to uh you want to do them relatively quickly 
+
+
+it's such a good
 [2711.36s -> 2717.44s]  trump card like if you can slow down those moves um i just think it's just a far better way of
 [2717.44s -> 2723.60s]  climbing i do think more and more people will try and orientate to that or they'll suffer in
 [2723.60s -> 2732.40s]  terms of session count so um yeah like the i think a really good case in point like will be
@@ -438,7 +448,11 @@ Detected language 'en' with probability 0.984087
 [2798.56s -> 2805.60s]  be i think it needs to be quite tall for grit and sandstone as well for a lot of the remaining
 [2805.60s -> 2813.84s]  puzzles and things so um but yeah i'm not um not get off topic too much with uh so yeah i'll try
 [2813.84s -> 2820.24s]  and link back to why i don't go on instagram yeah sorry i forgot that that was even the origin
-[2820.96s -> 2831.52s]  so yeah so like with all those projects in my head um and the stuff so i've got a big list of my
+[2820.96s -> 2831.52s]  
+
+
+
+so yeah so like with all those projects in my head um and the stuff so i've got a big list of my
 [2831.52s -> 2836.56s]  own things i'm keen on as well and then it's all like geographically based it depends on
 [2836.56s -> 2841.68s]  whether the weather's good um but yeah there's stuff i want to try in the lakes at the moment
 [2841.68s -> 2847.12s]  projects and repeats um in northumberland it's mostly projects in yorkshire great it's mostly
@@ -464,10 +478,15 @@ Detected language 'en' with probability 0.984087
 [2975.76s -> 2983.52s]  like one of the best ever efforts in british bouldering history for like uh like for funded
 [2983.52s -> 2989.28s]  like hard moves hard single moves um and and something that loads of climbers would struggle
 [2989.28s -> 2995.44s]  to repeat if they had to do it do what chris did because nobody has done that move as chris did it
-[2996.88s -> 3005.60s]  this is a um it was originally given a a now considered yes it is originally given a it's a
+[2996.88s -> 3005.60s]  
+
+this is a um it was originally given a a now considered yes it is originally given a it's a
 [3005.60s -> 3011.76s]  dyno at kylo in um which is a crag in northumberland uh in a forest well no longer in
 [3011.76s -> 3018.24s]  a forest the trees all got blown down a couple years ago but you essentially dyno as far as you
-[3018.24s -> 3025.20s]  can imagine off a mono um however i didn't realize that you did it finding a crimp yeah i still use
+[3018.24s -> 3025.20s]  can imagine off a mono um however i didn't realize that you did it finding a crimp 
+
+
+yeah i still use
 [3025.20s -> 3031.36s]  a mono but i found like a left hand proper disgusting grap that will slice your front
 [3031.36s -> 3036.40s]  two fingers off if you have like you like anyone who's been to kylo knows how sharp some of those
 [3036.40s -> 3043.04s]  crimps can be and it's one of those it's like a bic razor blade and then because your feet are
@@ -486,8 +505,15 @@ Detected language 'en' with probability 0.984087
 [3123.68s -> 3131.28s]  beyond my like dino skill set like i've done a dino is pretty quick and fun like magic circus and
 [3131.28s -> 3138.48s]  stuff or like rainbow rocket doesn't really count but um they're so much so much easier than that
 [3139.20s -> 3143.84s]  rainbow rocket doesn't count as a diner what's that rainbow rocket doesn't count
-[3147.60s -> 3152.96s]  like double stomp on a ledge like yeah get a basketball player to do that problem
-[3152.96s -> 3157.76s]  if um if instagram was a boulder it would be rainbow rocket it would wouldn't it like that's
+[3147.60s -> 3152.96s]  
+
+like double stomp on a ledge like yeah get a basketball player to do that problem
+[3152.96s -> 3157.76s]  if um 
+
+if instagram was a boulder it would be rainbow rocket 
+
+
+it would wouldn't it like that's
 [3157.76s -> 3165.68s]  fun yeah so many people oh god rainbow rocket's a great problem apart from the top jug being
 [3166.24s -> 3172.80s]  totally disgustingly sharp but um the all the movement on it's great but as a complex diner like
 [3172.80s -> 3178.56s]  magic circus is harder um definitely because you have to hit a you have to like nail into a slot
