@@ -712,6 +712,8 @@ Detected language 'en' with probability 0.988172
 [4666.96s -> 4674.24s]  themes to talk about if you don't if you don't mind dan if we could just do a few quick questions
 [4674.24s -> 4681.76s]  for our patreons is all of the recent talk about individual finger sling testing a wind up to get
 [4681.76s -> 4688.96s]  lots of ukb folk injured i had some feedback about this
+
+
 [4691.68s -> 4696.00s]  i think a lot of people got very excited but it's almost like being invited to a party
 [4696.00s -> 4701.04s]  with no host and everyone's walked in the room expecting a party and it's like is there a party
 [4701.04s -> 4708.00s]  here that's a good analogy that's kind of how it feels like with that if you don't really have a
@@ -747,13 +749,19 @@ Detected language 'en' with probability 0.988172
 [4903.20s -> 4907.20s]  what might actually happen and what i don't want to happen is just to go back to my old neural
 [4907.20s -> 4915.60s]  network of doing moves badly that suit those skill sets better and it's funny because for
 [4915.60s -> 4919.20s]  something like burden you probably have that challenge as well aiden don't you and that you've
-[4919.20s -> 4925.20s]  got to try and rewire yourself a little bit uh there's like a relationship between your attributes
+[4919.20s -> 4925.20s]  got to try and rewire yourself a little bit 
+
+
+uh there's like a relationship between your attributes
 [4925.20s -> 4931.36s]  and like the did you say subconscious move or like intuitive movement um there's a relationship
 [4931.36s -> 4936.56s]  between them which is slightly uh it's hard to understand because it's hard to understand how
 [4936.56s -> 4942.24s]  much the movement have played into like development of physical actors the same as chicken and the egg
 [4942.24s -> 4949.92s]  kind of thing um and then obviously that like suppose like that reductive training uh changes
 [4949.92s -> 4956.80s]  your attributes uh it's much more complex and how that then applies to movement patterns and the
-[4956.80s -> 4961.60s]  yeah the neurological stuff um which is definitely something i've thought a lot about with you watch
+[4956.80s -> 4961.60s]  yeah the neurological stuff um which is definitely something i've thought a lot about with 
+
+
+you watch
 [4961.60s -> 4966.64s]  clarence kennedy stuff at all do you know do you know who he is oh no i know actually you sam do
 [4966.64s -> 4975.28s]  you know who he is no no he's a he's a vegan weightlifter so goodness is junk for dave
 [4977.04s -> 4983.68s]  he's one of the best weightlifters on the planet um phenomenal weightlifter but he stresses so much
@@ -781,14 +789,23 @@ Detected language 'en' with probability 0.988172
 [5130.16s -> 5134.88s]  to cross my fingers and hope i can pull them in on the board and i'm probably going to do that
 [5134.88s -> 5140.48s]  through the warm-ups as well yeah more on the warm-ups but when i get into my harder climbing
 [5140.48s -> 5145.44s]  just like turn my brain off and start climbing properly again because i think i've done too much
-[5147.12s -> 5150.80s]  what would be great would be to get you back on at the end of the year and then you can
-[5151.76s -> 5155.36s]  give us your findings it's like smoking herbs
+[5147.12s -> 5150.80s]  
+
+
+what would be great would be to get you back on at the end of the year and then you can
+[5151.76s -> 5155.36s]  give us your findings 
+
+
+it's like smoking herbs
 [5157.52s -> 5162.40s]  i wonder if that like neural plasticity will diminish as you get older like will it be
 [5162.40s -> 5167.60s]  harder to change those patterns as you get older than yeah than if you're you're young
 [5168.16s -> 5171.28s]  because we've spoken about that as well briefly haven't we aiden about like
 [5171.28s -> 5175.92s]  whether it's worth trying to change the way people hold things or whether it's better to
 [5175.92s -> 5179.92s]  just be like that's what you're good at just stick with that and get as good as you can
-[5180.80s -> 5187.04s]  yeah yeah i sort of feel like i tapped out on rock locally that way so for me it's been
+[5180.80s -> 5187.04s]  yeah yeah 
+
+
+i sort of feel like i tapped out on rock locally that way so for me it's been
 [5187.04s -> 5192.88s]  such a breath of fresh air um having aiden about and climbing with him just to um
 [5193.44s -> 5201.28s]  to sort of get i really was getting a bit a bit sick of bouldering like 2019 i was
 [5202.08s -> 5206.48s]  like before the pandemic i think the pandemic really gave outdoor bouldering in this country
@@ -805,7 +822,11 @@ Detected language 'en' with probability 0.988172
 [5271.20s -> 5275.92s]  whether it's doable for me but it's you know i'm happy to try and fail
 [5278.40s -> 5282.80s]  yeah um yeah that's a good message so many things i could talk about within
 [5282.80s -> 5291.04s]  within that but yeah yeah i do think um yeah i do think it could definitely oh yeah i don't
-[5291.04s -> 5294.40s]  don't know if we did have any more questions i didn't put i think i think we've i think we've
+[5291.04s -> 5294.40s]  don't know if we did have any more questions i didn't put i think i think we've 
+
+
+
+i think we've
 [5294.40s -> 5302.08s]  run out of time even if we do to be honest you can't really ask for any more yeah yeah yeah
 [5302.08s -> 5307.60s]  yeah no that's fair but um yeah i i actually find this like neuroplasticity movement pattern stuff
 [5308.56s -> 5312.64s]  fascinating within climbing and i think i think you're right i think like
